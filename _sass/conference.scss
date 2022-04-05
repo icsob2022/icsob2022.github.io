@@ -1,14 +1,13 @@
-
 // Framework Configuration
 
 //   Bootstrap Theme
-$border-radius:                .1rem !default;
-$alert-border-width:           4px !default;
-$alert-color-level:            9 !default;
-$badge-font-size:              .85em !default;
+$border-radius: .1rem !default;
+$alert-border-width: 4px !default;
+$alert-color-level: 9 !default;
+$badge-font-size: .85em !default;
 $enable-responsive-font-sizes: true !default;
 //     Set different default as Bootstrap's choice is a very flashy blue
-$primary:                      #074 !default;
+$primary: #074 !default;
 
 //   FontAwesome
 $fa-font-path: '/assets/webfonts' !default;
@@ -37,12 +36,14 @@ $fa-font-path: '/assets/webfonts' !default;
   border-left-width: $alert-border-width;
 }
 
-@each $color, $value in $theme-colors {
+@each $color,
+$value in $theme-colors {
   .border-soft-#{$color} {
     border-color: theme-color-level($color, $alert-border-level);
     border-left-width: $alert-border-width;
     border-left-style: solid;
   }
+
   .bg-soft-#{$color} {
     @include gradient-bg(theme-color-level($color, $alert-bg-level));
   }
@@ -50,27 +51,29 @@ $fa-font-path: '/assets/webfonts' !default;
 
 //   Button group for lists
 ul.btn-group {
-  > li:not(:first-child) > .btn {
+  >li:not(:first-child)>.btn {
     margin-left: -$btn-border-width;
     @include border-left-radius(0);
   }
 
-  > li:not(:last-child) > .btn {
+  >li:not(:last-child)>.btn {
     @include border-right-radius(0);
   }
 }
 
 // Extend Bootstrap Elements
 .display-5 {
-  font-size:   3rem;
+  font-size: 3rem;
   font-weight: $display4-weight;
   line-height: $display-line-height;
 }
+
 .font-normal {
   .badge {
-    font-size:   .85em;
+    font-size: .85em;
   }
 }
+
 .overflow-y-hidden {
   overflow-y: hidden;
 }
@@ -86,12 +89,12 @@ main.container img {
 }
 
 //   No bottom margin on info-bar
-.alert > p:last-of-type {
+.alert>p:last-of-type {
   margin-bottom: 0;
 }
 
 //   Live icon
-.live-button > object {
+.live-button>object {
   width: 0.85em;
   height: 0.85em;
   color: inherit;
@@ -111,7 +114,8 @@ main.container img {
 
   // Correct border-width caused by border-collapse
   border-spacing: 0px;
-  tbody tr:first-of-type > * {
+
+  tbody tr:first-of-type>* {
     border-top-width: 0px;
   }
 
@@ -120,14 +124,15 @@ main.container img {
     position: sticky;
     background-color: $body-bg;
   }
+
   th:first-of-type {
     left: 0px;
     z-index: 1;
   }
 
   // Hide shadow of table cells next to sticky header
-  thead tr > th:last-of-type {
-    box-shadow: 10px 0px 0px 0px rgba(255,255,255,1);
+  thead tr>th:last-of-type {
+    box-shadow: 10px 0px 0px 0px rgba(255, 255, 255, 1);
   }
 }
 
@@ -140,7 +145,8 @@ main.container img {
   width: auto;
 
   // Column widths
-  th, td {
+  th,
+  td {
     // Total available container width is 1110px
 
     // Width of columns with content (default)
@@ -152,6 +158,7 @@ main.container img {
       width: 15px;
       min-width: 15px;
     }
+
     // Width of first column containing timestamps
     &.col-title {
       width: 70px;
@@ -165,6 +172,7 @@ main.container img {
   background-color: theme-color-level('primary', $alert-bg-level);
   color: var(--dark);
 }
+
 #map {
   height: 50vh;
   min-height: 400px;
@@ -192,18 +200,21 @@ main.container img {
 // Speaker
 .speakergroup {
   page-break-inside: avoid;
-  break-inside:      avoid-column;
+  break-inside: avoid-column;
 }
+
 @include media-breakpoint-up(sm) {
   .speakerlist {
     column-count: 1;
   }
 }
+
 @include media-breakpoint-up(md) {
   .speakerlist {
     column-count: 2;
   }
 }
+
 @include media-breakpoint-up(lg) {
   .speakerlist {
     column-count: 3;
@@ -213,6 +224,7 @@ main.container img {
 
 // Print
 @media print {
+
   // remove underline for links
   a {
     text-decoration: none !important;
@@ -220,7 +232,8 @@ main.container img {
 
   // overwrite bootstrap default white background
   // works only with Webkit (Chrome, Safari) and Firefox
-  @each $color, $value in $theme-colors {
+  @each $color,
+  $value in $theme-colors {
     .table td.alert-#{$color} {
       color-adjust: exact;
       background-color: theme-color-level($color, $alert-bg-level) !important;
@@ -228,6 +241,7 @@ main.container img {
       color: black;
     }
   }
+
   .badge {
     color-adjust: exact;
 
@@ -236,7 +250,7 @@ main.container img {
   }
 
   // Remove sticky position from table to show borders
-  .table  th {
+  .table th {
     position: inherit;
   }
 
@@ -244,6 +258,7 @@ main.container img {
   .live-show {
     display: none;
   }
+
   .live-hide {
     display: inline-block !important;
   }

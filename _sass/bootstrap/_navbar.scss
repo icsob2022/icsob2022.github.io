@@ -23,6 +23,7 @@
   justify-content: space-between; // space out brand from logo
   padding: $navbar-padding-y $navbar-padding-x;
 
+
   // Because flex properties aren't inherited, we need to redeclare these first
   // few properties so that content nested within behave properly.
   %container-flex-properties {
@@ -37,8 +38,9 @@
     @extend %container-flex-properties;
   }
 
-  @each $breakpoint, $container-max-width in $container-max-widths {
-    > .container#{breakpoint-infix($breakpoint, $container-max-widths)} {
+  @each $breakpoint,
+  $container-max-width in $container-max-widths {
+    >.container#{breakpoint-infix($breakpoint, $container-max-widths)} {
       @extend %container-flex-properties;
     }
   }
@@ -57,6 +59,8 @@
   @include font-size($navbar-brand-font-size);
   line-height: inherit;
   white-space: nowrap;
+  font-weight: 800;
+  font-size: large;
 
   @include hover-focus() {
     text-decoration: none;
@@ -78,6 +82,8 @@
   .nav-link {
     padding-right: 0;
     padding-left: 0;
+    font-weight: 600;
+    font-size: larger;
   }
 
   .dropdown-menu {
@@ -95,6 +101,7 @@
   display: inline-block;
   padding-top: $nav-link-padding-y;
   padding-bottom: $nav-link-padding-y;
+
 }
 
 
@@ -154,13 +161,14 @@
           padding-left: 0;
         }
 
-        > .container,
-        > .container-fluid {
+        >.container,
+        >.container-fluid {
           @extend %container-navbar-expand-#{$breakpoint};
         }
 
-        @each $size, $container-max-width in $container-max-widths {
-          > .container#{breakpoint-infix($size, $container-max-widths)} {
+        @each $size,
+        $container-max-width in $container-max-widths {
+          >.container#{breakpoint-infix($size, $container-max-widths)} {
             @extend %container-navbar-expand-#{$breakpoint};
           }
         }
@@ -188,13 +196,14 @@
           flex-wrap: nowrap;
         }
 
-        > .container,
-        > .container-fluid {
+        >.container,
+        >.container-fluid {
           @extend %container-nesting-#{$breakpoint};
         }
 
-        @each $size, $container-max-width in $container-max-widths {
-          > .container#{breakpoint-infix($size, $container-max-widths)} {
+        @each $size,
+        $container-max-width in $container-max-widths {
+          >.container#{breakpoint-infix($size, $container-max-widths)} {
             @extend %container-nesting-#{$breakpoint};
           }
         }
@@ -242,8 +251,8 @@
       }
     }
 
-    .show > .nav-link,
-    .active > .nav-link,
+    .show>.nav-link,
+    .active>.nav-link,
     .nav-link.show,
     .nav-link.active {
       color: $navbar-light-active-color;
@@ -261,6 +270,7 @@
 
   .navbar-text {
     color: $navbar-light-color;
+
     a {
       color: $navbar-light-active-color;
 
@@ -294,8 +304,8 @@
       }
     }
 
-    .show > .nav-link,
-    .active > .nav-link,
+    .show>.nav-link,
+    .active>.nav-link,
     .nav-link.show,
     .nav-link.active {
       color: $navbar-dark-active-color;
@@ -313,6 +323,7 @@
 
   .navbar-text {
     color: $navbar-dark-color;
+
     a {
       color: $navbar-dark-active-color;
 
