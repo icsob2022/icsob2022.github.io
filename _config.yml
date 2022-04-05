@@ -98,15 +98,17 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      img: 'OldLogo.png'
+      img: 'logo.png'
       url: 'http://127.0.0.1:4000/'
     links:
       - name: Venue
         relative_url: /venue/
       - name: Important Dates
         relative_url: /importantdates/
-      - name: Organizations
-        relative_url: /organizations/
+      #- name: Organisation
+       # relative_url: /organisation/
+      - name: Location
+        relative_url: /location/
       - name: Previous Editions
         menu:
           - name: 2022 (current)
@@ -125,8 +127,8 @@ conference:
 
   # Main landing page
   main:
-    # logo:
-    #   img: ''
+    logo:
+      img: 'bozen1.png'
     links:
       - name: Program
         relative_url: /program/
@@ -147,8 +149,7 @@ conference:
         ---
 
         See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-    - text: This is just some random content for demonstration purposes.
-      color: warning
+    
       pages_only: true
 
   # Live indications
@@ -168,7 +169,7 @@ conference:
 
   map:
     # Initial map center point
-    home_coord: 47.37808, 8.53935
+    home_coord: 47.37808, 48.53935
     # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
     # The following do match the Bootstrap design not too badly:
     #   - Hydda.Full
