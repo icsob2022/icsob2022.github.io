@@ -44,7 +44,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+#comment
 
 sass:
   style: compressed
