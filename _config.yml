@@ -97,10 +97,9 @@ conference:
 
   # Navigation bar
   navigation:
-    color: 'grey'
     logo:
       img: 'logo.png'
-      url: 'http://127.0.0.1:4000/'
+      url: 'https://icsob2022.github.io/'
     links:
       - name: Venue
         relative_url: /venue/
