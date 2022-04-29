@@ -66,7 +66,7 @@ layout: organisation
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
-            Poster Chairs
+            Poster Chair
         </h1>
     <div style="display: flex;">
     <div style="flex: 33.33%; padding: 5px;">
@@ -185,7 +185,7 @@ layout: organisation
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
-            Student Volunteer Chairs
+            Student Volunteer Chair
         </h1>
     <div style="display: flex;">
     <div style="flex: 33.33%; padding: 5px;">
