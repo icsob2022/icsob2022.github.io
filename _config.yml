@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://icsob2022.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username: jekyll
 
 # Build settings
 markdown: kramdown
@@ -32,6 +32,11 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-target-blank
+
+target-blank:
+  css_class: ext-link
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -86,9 +91,7 @@ defaults:
     values:
       layout: room
 
-
 conference:
-
   # Language
   lang: en
 
@@ -98,15 +101,29 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      img: 'logo.png'
-      url: 'https://icsob2022.github.io/'
+      img: "logo.png"
+      url: "https://icsob2022.github.io/"
     links:
+      - name: Home
+        relative_url: /
+      - name: Call for Submissions
+        menu:
+          - name: Call for Paper Submissions
+            relative_url: "/#CallForPaperSubmissions"
+          - name: EasyChair Paper Submission
+            relative_url: "/#EasyChairPaperSubmission"
+          - name: Important Dates
+            relative_url: "/#ImportantDates"
+          - name: Submission Formats
+            relative_url: "/#SubmissionFormats"
+          - name: Call for Other Types of Submissions
+            relative_url: "/#CallForOtherTypesOfSubmission"
       - name: Venue
         relative_url: /venue/
       - name: Important Dates
         relative_url: /importantdates/
-      #- name: Organisation
-       # relative_url: /organisation/
+      - name: Organisation
+        relative_url: /organisation/
       - name: Location
         relative_url: /location/
       - name: Previous Editions
@@ -114,21 +131,24 @@ conference:
           - name: 2022 (current)
             disabled: true
           - name: 2021
-            relative_url: 'https://icsob2021.org/'
-          
+            relative_url: "https://icsob2021.org/"
+          - name: 2020
+            relative_url: "https://icsob.wordpress.com/"
+          - name: 2019
+            relative_url: "https://icsob2019.wordpress.com/"
 
   # Link Preview for Sharing
   link_preview:
     # also adapt "preposition" property at top for more meaningful descriptions
     disable: false
     img:
-      twitter: 'twitter_preview.png'      # inside /assets/images/
-      open_graph: 'facebook_preview.png'  # inside /assets/images/
+      twitter: "twitter_preview.png" # inside /assets/images/
+      open_graph: "facebook_preview.png" # inside /assets/images/
 
   # Main landing page
   main:
-    logo:
-      img: 'bozen1.png'
+    #logo:
+    # img: 'bozen1.png'
     links:
       - name: Program
         relative_url: /program/
@@ -136,7 +156,7 @@ conference:
         relative_url: /location/
       - name: Tickets
         disabled: true
-        absolute_url: ''
+        absolute_url: ""
 
   # Information boxes
   info_bars:
@@ -149,23 +169,23 @@ conference:
         ---
 
         See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
-    
+
       pages_only: true
 
   # Live indications
   live:
     date: 01.01.2020
     timezone: GMT+1
-    stop:       240  # in minutes
+    stop: 240 # in minutes
     streaming:
       enable: true
-      pause:     60  # in minutes
-      prepend:    5  # in minutes
-      extend:     5  # in minutes
+      pause: 60 # in minutes
+      prepend: 5 # in minutes
+      extend: 5 # in minutes
     demo:
       enable: false
-      duration: 300  # in seconds
-      pause:     10  # in seconds
+      duration: 300 # in seconds
+      pause: 10 # in seconds
 
   map:
     # Initial map center point
@@ -197,15 +217,15 @@ conference:
     # Disable links to locations
     hide: false
     # URL of location / room overview page
-    url: '/location'
+    url: "/location"
     # Main page title shown on location/room navigation bar
-    navbar_title: 'Location'
+    navbar_title: "Location"
     # Show map on location main page
     map: true
 
   program:
     # URL of program page
-    url: '/program'
+    url: "/program"
 
     # Time steps in program table
     time_steps: 15 # in minutes

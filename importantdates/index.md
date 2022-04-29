@@ -8,7 +8,7 @@ layout: importantdates
     </h1>
     <p class="lead">
     <p>This is a tentative schedule for contributions:
-    <ul>
+    <ul style="list-style: none;">
         <li>Deadline for submissions: 29 July 2022</li>
         <li>Notification of acceptance: 31 August 2022</li>
         <li>Camera-ready submission: 15 September 2022</li>

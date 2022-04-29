@@ -22,10 +22,13 @@
 
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css?t={{ site.time | date: " %s" }}" />
 
+  <link rel="shortcut icon" href="/assets/images/favicon.ico?">
+
   <link rel="preload" as="font" href="{{ site.baseurl }}/assets/webfonts/fa-regular-400.woff2" type="font/woff2"
     crossorigin="anonymous" />
   <link rel="preload" as="font" href="{{ site.baseurl }}/assets/webfonts/fa-solid-900.woff2" type="font/woff2"
     crossorigin="anonymous" />
+
   {%- if site.conference.live %}
   <link rel="prefetch" as="image" href="{{ site.baseurl }}/assets/icons/live.svg" type="image/svg+xml"
     crossorigin="anonymous" />

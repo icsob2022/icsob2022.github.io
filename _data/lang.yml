@@ -30,12 +30,6 @@ en:
       minute: minute
       soon: soon
       now: now
-  location:
-    rooms: Rooms
-    directions: Directions
-    talks: Talks in this room
-    focus_conf: Center map on conference location
-    focus_me: Show my current location
   program:
     title: Program
     legend: Caption

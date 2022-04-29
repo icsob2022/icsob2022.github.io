@@ -1,3 +1,63 @@
+<style>
+  .main-image {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    background: url(assets/images/bozen1.png) no-repeat center;
+    background-size: cover;
+    height: 500px;
+    overflow: hidden;
+
+  }
+
+  .containerimg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+
+  .containerimg h1 {
+    margin: 0;
+    font-size: 40px;
+  }
+
+  /* .containerimg h1 span {
+    border: 3px solid white;
+    padding: 6px 14px;
+    display: inline-block;
+  }
+*/
+
+  .cen {
+    margin: 20px;
+    display: block;
+    font-size: 26px;
+  }
+
+  .cen2 {
+    margin: 10px;
+    display: block;
+    font-size: 22px;
+  }
+</style>
+
+
+
+
+
+<div class="main-image">
+  <div class="containerimg">
+    <h1><span>The 13th International Conference on Software Business (ICSOB 2022)</span></h1>
+    <span class="cen">November 08-11, 2022</span>
+    <span class="cen2">Bolzano, Italy</span>
+  </div>
+</div>
+
+
 {% include partials/header.html %}
 <h1 class="display-3">
   {% if site.conference.main.logo.img %}
