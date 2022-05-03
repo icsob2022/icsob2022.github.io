@@ -64,6 +64,37 @@ layout: organisation
         </div>
     </div>
         <hr class="my-4">
+        <!-- ---------------------------------------------------------------------------------------------------------------------- -->
+ <h1 class="display-5">
+           PhD Retreat Chairs
+        </h1>
+    <div style="display: flex;">
+        <div style="flex: 33.33%; padding: 5px;">
+        <p class="lead">
+        <p class="lead"></p>
+        <img src="/assets/images/organisation/Luciana.bmp" alt=""
+            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
+        </p>
+        <div style="margin-top: 70px;">
+            <h3>Luciana Zaina</h3>
+            <br>
+            Federal University of São Carlos, Brazil (UFSCar)
+        </div>
+        </div>
+    <div style="flex: 33.33%; padding: 5px;">
+        <p class="lead">
+        <p class="lead"></p>
+        <img src="/assets/images/organisation/Abdullah.jpeg" alt=""
+            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
+        </p>
+        <div style="margin-top: 70px;">
+            <h3>Abdullah Aldaeej</h3>
+            <br>
+            Imam Abdulrahman Bin Faisal University, Saudi Arabia
+        </div>
+    </div>
+    </div>
+        <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
       Poster Chairs
@@ -95,37 +126,6 @@ layout: organisation
       </div>
     </div>
     <hr class="my-4" />
-<!-- ---------------------------------------------------------------------------------------------------------------------- -->
- <h1 class="display-5">
-           PhD Retreat Chairs
-        </h1>
-    <div style="display: flex;">
-    <div style="flex: 33.33%; padding: 5px;">
-        <p class="lead">
-        <p class="lead"></p>
-        <img src="/assets/images/organisation/Abdullah.jpeg" alt=""
-            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
-        </p>
-        <div style="margin-top: 70px;">
-            <h3>Abdullah Aldaeej</h3>
-            <br>
-            Imam Abdulrahman Bin Faisal University, Saudi Arabia
-        </div>
-    </div>
-    <div style="flex: 33.33%; padding: 5px;">
-        <p class="lead">
-        <p class="lead"></p>
-        <img src="/assets/images/organisation/Luciana.bmp" alt=""
-            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
-        </p>
-        <div style="margin-top: 70px;">
-            <h3>Luciana Zaina</h3>
-            <br>
-            Federal University of São Carlos, Brazil (UFSCar)
-        </div>
-        </div>
-    </div>
-        <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
             Proceedings Chair
