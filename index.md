@@ -53,13 +53,13 @@ We invite you to submit your papers to one of these tracks via the <a href="http
 Papers should be submitted in PDF format. The results described must be unpublished and must not be under review elsewhere.
 
 <b style="font-size: 22px" id="SubmissionFormats">Submission Formats</b><br>
-Submissions must conform to Springer’s LNCS format and should not exceed 15 pages, including all text, figures, references, and appendices.
+Submissions must conform to Springer’s LNBIP format and should not exceed 15 pages, including all text, figures, references, and appendices.
 
-Submissions not conforming to the LNCS format, exceeding 15 pages (for full papers) or 6 pages (for short papers), or 4 pages (for poster papers) or being obviously out of the scope of the conference might be rejected.
+Submissions not conforming to the LNBIP format, exceeding 15 pages (for full papers) or 6 pages (for short papers), or 4 pages (for poster papers) or being obviously out of the scope of the conference might be rejected.
 
-Information about the Springer LNCS format can be found <a href="http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="_blank">here</a>. Three to five keywords characterizing the paper should be indicated at the end of the abstract. The type of paper (technical/empirical evaluation/experience/exploratory paper) should be indicated in the submission. Submission is done through EasyChair.
+Information about the Springer LNBIP format can be found <a href="https://www.springer.com/gp/authors-editors/conference-proceedings/conference-proceedings-guidelines" target="_blank">here</a>. Three to five keywords characterizing the paper should be indicated at the end of the abstract. The type of paper (technical/empirical evaluation/experience/exploratory paper) should be indicated in the submission. Submission is done through EasyChair.
 
-Each paper will be reviewed by at least two reviewers. Accepted papers will be presented at ICSOB ’22 and published in the conference proceedings, which is published in the Springer Lecture Notes in Computer Science (LNCS).
+Each paper will be reviewed by at least three reviewers. Accepted papers will be presented at ICSOB ’22 and published in the conference proceedings, which is published in the Springer Lecture Notes in Business Information Processing (LNBIP).
 
 <hr>
 <b style="font-size: 22px" id="OtherCallsForSubmission">Call for Other Types of Submissions</b>
