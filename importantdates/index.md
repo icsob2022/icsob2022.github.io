@@ -16,19 +16,19 @@ layout: importantdates
     </ul>
     </p>
     </p>
-    <p>PhD Retreat:</p>
+    <p><b>PhD Retreat:</b></p>
     <ul style="list-style: none;">
         <li>Deadline for submissions: To Be Defined</li>
         <li>Notification of acceptance: To Be Defined</li>
         <li>PhD Retreat date: 08 November 2022</li>
     </ul>
-    <p>Industry track:</p>
+    <p><b>Industry track:</b></p>
     <ul style="list-style: none;">
         <li>Deadline for submissions: To Be Defined</li>
         <li>Notification of acceptance: To Be Defined</li>
         <li>Industry presentations date: 11 November 2022</li>
     </ul>
-    <p>Posters track:</p>
+    <p><b>Posters track:</b></p>
     <ul style="list-style: none;">
         <li>Deadline for submissions: To Be Defined</li>
         <li>Notification of acceptance: To Be Defined</li>

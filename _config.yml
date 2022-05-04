@@ -125,7 +125,7 @@ conference:
         relative_url: /organisation/
       - name: Venue
         relative_url: /venue/  
-      - name: Location
+      - name: Travel information
         relative_url: /location/
       - name: Series
         menu:
