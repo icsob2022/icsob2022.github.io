@@ -43,6 +43,31 @@
     display: block;
     font-size: 22px;
   }
+
+  span {
+    color: white;
+  }
+
+  /*
+  @keyframes spin3D {
+    from {
+      transform: rotateY(0deg)
+    }
+
+    to {
+      transform: rotateY(360deg)
+    }
+  }
+
+  #logo {
+    animation-name: spin3D;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    /* linear | ease | ease-in | ease-out | ease-in-out 
+    animation-timing-function: ease-in;
+  }
+
+  */
 </style>
 
 
@@ -50,13 +75,14 @@
 
 
 <div class="main-image">
-  <div class="containerimg">
-    <h1><span>The 13th International Conference on Software Business (ICSOB 2022)</span></h1>
-    <span class="cen">November 08-11, 2022</span>
-    <span class="cen2">Bolzano, Italy</span>
+  <div id="snow">
+    <div class="containerimg">
+      <h1><span>The 13th International Conference on Software Business (ICSOB 2022)</span></h1>
+      <span class="cen">November 08-11, 2022</span>
+      <span class="cen2">Bolzano, Italy</span>
+    </div>
   </div>
 </div>
-
 
 {% include partials/header.html %}
 <h1 class="display-3">

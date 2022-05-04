@@ -17,7 +17,7 @@ The theme of ICSOB2022 is <b>Software for Digital Transformation</b>. Research a
 // Research about software for digital transformations addresses the role of software in the digital transformation. It includes a wide range of concerns ranging from software product, software teams, software process, software startups and software business models. //
 
 <hr>
-<b style="font-size: 22px" id="CallForPaperSubmissions">Call for Paper Submissions</b>
+<b style="font-size: 22px" id="CallForResearchPapers">Call for Paper Submissions</b>
 
 We welcome both research and industry papers to the conference. The papers should be original and not submitted to or accepted by any other conference or journal. We are looking for (i) <b>full research papers</b> (maximum 15 pages), (ii) <b>short position papers</b> (maximum 6 pages), and (iii) <b>practice papers</b> (maximum 6 pages) describing novel approaches to software business for software products and services within a digital transformation context. Papers should provide insights on and/or industry case studies on digital transformation and software business, software products, practices, and principles.
 
@@ -62,7 +62,7 @@ Information about the Springer LNCS format can be found <a href="http://www.spri
 Each paper will be reviewed by at least two reviewers. Accepted papers will be presented at ICSOB ’22 and published in the conference proceedings, which is published in the Springer Lecture Notes in Computer Science (LNCS).
 
 <hr>
-<b style="font-size: 22px" id="CallForOtherTypesOfSubmission">Call for Other Types of Submissions</b>
+<b style="font-size: 22px" id="OtherCallsForSubmission">Call for Other Types of Submissions</b>
 
 <b>PhD Retreat</b>:<br>
 PhD candidates are invited to attend a one-day PhD retreat in the Italian Alps. Apart from developing your research, this event is highly valued for the opportunity to expand your network by meeting fellow international PhD candidates. You will engage in research and social activities (... and have fun!). PhD candidates must register for the conference to attend. The PhD Retreat will take place on November 8th, 2022.

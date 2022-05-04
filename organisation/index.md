@@ -64,30 +64,23 @@ layout: organisation
         </div>
     </div>
         <hr class="my-4">
-<!-- ---------------------------------------------------------------------------------------------------------------------- -->
- <h1 class="display-5">
-            Poster Chair
-        </h1>
-    <div style="display: flex;">
-    <div style="flex: 33.33%; padding: 5px;">
-        <p class="lead">
-        <p class="lead"></p>
-        <img src="/assets/images/organisation/Henry.jpg" alt=""
-            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
-        </p>
-        <div style="margin-top: 70px;">
-            <h3>Henry Edison</h3>
-            <br>
-            University of Southern Denmark, Denmark
-        </div>
-    </div>
-    </div>
-        <hr class="my-4">
-<!-- ---------------------------------------------------------------------------------------------------------------------- -->
+        <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
            PhD Retreat Chairs
         </h1>
     <div style="display: flex;">
+        <div style="flex: 33.33%; padding: 5px;">
+        <p class="lead">
+        <p class="lead"></p>
+        <img src="/assets/images/organisation/Luciana.bmp" alt=""
+            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
+        </p>
+        <div style="margin-top: 70px;">
+            <h3>Luciana Zaina</h3>
+            <br>
+            Federal University of São Carlos, Brazil (UFSCar)
+        </div>
+        </div>
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
@@ -100,20 +93,39 @@ layout: organisation
             Imam Abdulrahman Bin Faisal University, Saudi Arabia
         </div>
     </div>
-    <div style="flex: 33.33%; padding: 5px;">
-        <p class="lead">
-        <p class="lead"></p>
-        <img src="/assets/images/organisation/Luciana.bmp" alt=""
-            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
-        </p>
-        <div style="margin-top: 70px;">
-            <h3>Luciana Zaina</h3>
-            <br>
-            Federal University of São Carlos, Brazil (UFSCar)
-        </div>
-        </div>
     </div>
         <hr class="my-4">
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
+ <h1 class="display-5">
+      Poster Chairs
+    </h1>
+    <div style="display: flex;">
+      <div style="flex: 33.33%; padding: 5px;">
+        <p class="lead">
+        <p class="lead"></p>
+        <img src="/assets/images/organisation/Henry.jpg" alt=""
+          style="padding: 20px; float: left; height: 200px; border-radius: 100%;" />
+        </p>
+        <div style="margin-top: 70px;">
+          <h3>Henry Edison</h3>
+          <br />
+          University of Southern Denmark, Denmark
+        </div>
+      </div>
+      <div style="flex: 33.33%; padding: 5px;">
+        <p class="lead">
+        <p class="lead"></p>
+        <img src="/assets/images/organisation/Dimitri.jfif" alt=""
+          style="padding: 20px; float: left; height: 200px; border-radius: 100%;" />
+        </p>
+        <div style="margin-top: 70px;">
+          <h3>Dimitri Petrik</h3>
+          <br />
+          University of Stuttgart, Germany
+        </div>
+      </div>
+    </div>
+    <hr class="my-4" />
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
             Proceedings Chair

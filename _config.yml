@@ -108,16 +108,16 @@ conference:
         relative_url: /
       - name: Call for Submissions
         menu:
-          - name: Call for Paper Submissions
-            relative_url: "/#CallForPaperSubmissions"
+          - name: Call for Research Papers
+            relative_url: "/#CallForResearchPapers"
           - name: EasyChair Paper Submission
             relative_url: "/#EasyChairPaperSubmission"
           - name: Important Dates
             relative_url: "/#ImportantDates"
           - name: Submission Formats
             relative_url: "/#SubmissionFormats"
-          - name: Call for Other Types of Submissions
-            relative_url: "/#CallForOtherTypesOfSubmission"
+          - name: Other calls for submission
+            relative_url: "/#OtherCallsForSubmission"
       - name: Venue
         relative_url: /venue/
       - name: Important Dates
@@ -126,7 +126,7 @@ conference:
         relative_url: /organisation/
       - name: Location
         relative_url: /location/
-      - name: Previous Editions
+      - name: Series
         menu:
           - name: 2022 (current)
             disabled: true
