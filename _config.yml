@@ -16,9 +16,9 @@
 title: ICSOB 2022
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-The International Conference on Software Business (ICSOB) attracts both researchers and practitioners who 
-are concerned with software-intensive business in different ways, and brings them together to share their 
-findings and experiences from the field of software-intensive business.
+  The International Conference on Software Business (ICSOB) attracts both researchers and practitioners who 
+  are concerned with software-intensive business in different ways, and brings them together to share their 
+  findings and experiences from the field of software-intensive business.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://icsob2022.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -136,7 +136,7 @@ conference:
           - name: 2020
             relative_url: "https://icsob.wordpress.com/"
           - name: 2019
-            relative_url: "https://icsob2019.wordpress.com/"
+            relative_url: "b2019.wordpress.com/"
 
   # Link Preview for Sharing
   link_preview:
