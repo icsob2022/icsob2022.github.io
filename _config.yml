@@ -118,13 +118,13 @@ conference:
             relative_url: "/#SubmissionFormats"
           - name: Other calls for submission
             relative_url: "/#OtherCallsForSubmission"
- 
+
       - name: Important Dates
         relative_url: /importantdates/
       - name: Organisation
         relative_url: /organisation/
       - name: Venue
-        relative_url: /venue/  
+        relative_url: /venue/
       - name: Travel information
         relative_url: /location/
       - name: Series
