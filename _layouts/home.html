@@ -48,6 +48,29 @@
     color: white;
   }
 
+  @media (max-width: 650px) {
+    #twitter {}
+
+
+
+    #flexbox>div {
+      flex-basis: 51%;
+    }
+  }
+
+  #flexbox {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  #content {
+    flex: 70%;
+  }
+
+  #twitter {
+    flex: 30%;
+  }
+
   /*
   @keyframes spin3D {
     from {
@@ -97,20 +120,20 @@
   {% endif %}
 </h1>
 
-{{ content }}
 
-<!--<div style="display: flex;">
-  <div style="flex: 70.0%; padding-right: 50px;">
+
+<div id="flexbox">
+  <div style="padding-right: 50px;" id="content">
 
     {{ content }}
 
   </div>
-  <div style="flex: 30.0%; padding: 5px; right: 100px;">
+  <div style="padding: 5px; right: 100px;" id="twitter">
 
     <a class="twitter-timeline" data-height="3400" href="https://twitter.com/ICSOBconf?ref_src=twsrc%5Etfw">Tweets by
       ICSOBconf</a>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 </div>
--->
+
 {% include partials/footer.html %}
