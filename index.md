@@ -46,7 +46,7 @@ We invite you to submit your papers to one of these tracks via the <a href="http
 <ul style="list-style: none;">
 <li>Deadline for submissions: 29 July 2022</li>
 <li>Notification of acceptance: 31 August 2022</li>
-<li>Camera-ready submission: 15 September 2022</li>
+<li>Camera-ready submission: 13 September 2022</li>
 <li>Main conference date: 09-10 November 2022</li>
 </ul>
 <hr>
