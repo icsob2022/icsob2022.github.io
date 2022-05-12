@@ -178,7 +178,7 @@ layout: organisation
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
-            Industry Chair
+            Industry Track Chair
         </h1>
     <div style="display: flex;">
     <div style="flex: 33.33%; padding: 5px;">
@@ -191,6 +191,18 @@ layout: organisation
             <h3>Eduardo Guerra</h3>
             <br>
             Free University of Bozen-Bolzano, Italy
+        </div>
+    </div>
+    <div style="flex: 33.33%; padding: 5px;">
+        <p class="lead">
+        <p class="lead"></p>
+        <img src="/assets/images/organisation/luca.jpeg" alt=""
+            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
+        </p>
+        <div style="margin-top: 70px;">
+            <h3>Luca Miotto</h3>
+            <br>
+            NOI Techpark Bolzano, Italy
         </div>
     </div>
     </div>
