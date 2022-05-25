@@ -8,7 +8,7 @@ layout: location
     referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-<div class="col-lg8 mx-auto">
+< class="col-lg8 mx-auto">
     <h1 class="display-3" style="text-align: center;">
         How to get to Bolzano
     </h1>
@@ -88,6 +88,7 @@ layout: location
     <b>
         The address of the conference is: Via Alessandro Volta, 13, 39100 Bolzano BZ</b>
     <hr class="my-4">
+    <!--
     <h1 class="display-5" style="text-align: center;">
         Where to stay in Bolzano
     </h1>
@@ -105,4 +106,5 @@ layout: location
                 href="mailto:info@info@parkhotelmondschein.com">info@parkhotelmondschein.com</a></li>
     </ul>
     Please note that Bolzano offers also many options on <a href="https://www.airbnb.it/">Airbnb</a>.
-</div>
+    -->
+    </div>
