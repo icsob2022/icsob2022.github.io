@@ -22,7 +22,9 @@
 
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css?t={{ site.time | date: " %s" }}" />
 
-  <link rel="shortcut icon" href="/assets/images/favicon.ico?">
+  <link rel="shortcut icon" href="/favicon.ico">
+
+
 
   <link rel="preload" as="font" href="{{ site.baseurl }}/assets/webfonts/fa-regular-400.woff2" type="font/woff2"
     crossorigin="anonymous" />
@@ -36,7 +38,7 @@
     crossorigin="anonymous" />
   {%- endif %}
 
-
+  {% seo %}
 </head>
 
 <body class="pb-4">

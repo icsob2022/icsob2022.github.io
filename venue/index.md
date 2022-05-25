@@ -2,7 +2,7 @@
 layout: venue
 ---
 
-<div class="jumbotron">
+<div>
     <h1 class="display-3">
         Venue
     </h1>

@@ -106,15 +106,9 @@ conference:
       - name: Call for Submissions
         menu:
           - name: Call for Research Papers
-            relative_url: "/#CallForResearchPapers"
-          - name: EasyChair Paper Submission
-            relative_url: "/#EasyChairPaperSubmission"
-          - name: Important Dates
-            relative_url: "/#ImportantDates"
-          - name: Submission Formats
-            relative_url: "/#SubmissionFormats"
+            relative_url: "/callForResearch"
           - name: Other calls for submission
-            relative_url: "/#OtherCallsForSubmission"
+            relative_url: "/otherCalls"
 
       - name: Important Dates
         relative_url: /importantdates/

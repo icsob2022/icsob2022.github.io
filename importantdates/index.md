@@ -2,7 +2,7 @@
 layout: importantdates
 ---
 
-<div class="jumbotron">
+<div>
     <h1 class="display-3">
         Important Dates
     </h1>
