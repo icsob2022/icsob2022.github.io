@@ -8,7 +8,7 @@ layout: location
     referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
-< class="col-lg8 mx-auto">
+<div class="col-lg8 mx-auto">
     <h1 class="display-3" style="text-align: center;">
         How to get to Bolzano
     </h1>
@@ -107,4 +107,4 @@ layout: location
     </ul>
     Please note that Bolzano offers also many options on <a href="https://www.airbnb.it/">Airbnb</a>.
     -->
-    </div>
+</div>
