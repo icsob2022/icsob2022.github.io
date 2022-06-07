@@ -109,6 +109,8 @@ conference:
             relative_url: "/callForResearch"
           - name: Other calls for submission
             relative_url: "/otherCalls"
+          - name: Call for Student Volunteers
+            relative_url: "/callForStudentsVolunteers"
 
       - name: Important Dates
         relative_url: /importantdates/

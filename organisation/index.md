@@ -145,6 +145,25 @@ layout: organisation
     </div>
     </div>
         <hr class="my-4">
+        <!-- ---------------------------------------------------------------------------------------------------------------------- -->
+ <h1 class="display-5">
+            Post-proceedings Chair
+        </h1>
+    <div style="display: flex;">
+    <div style="flex: 33.33%; padding: 5px;">
+        <p class="lead">
+        <p class="lead"></p>
+        <img src="/assets/images/organisation/jorge.jpg" alt=""
+            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
+        </p>
+        <div style="margin-top: 70px;">
+            <h3>Jorge Melegati</h3>
+            <br>
+            Free University of Bozen-Bolzano, Italy
+        </div>
+        </div>
+    </div>
+        <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
             Publicity Chairs
@@ -162,23 +181,11 @@ layout: organisation
             LUT University, Finland
         </div>
     </div>
-    <div style="flex: 33.33%; padding: 5px;">
-        <p class="lead">
-        <p class="lead"></p>
-        <img src="/assets/images/organisation/jorge.jpg" alt=""
-            style="padding: 20px; float: left; height: 200px; border-radius: 100%;">
-        </p>
-        <div style="margin-top: 70px;">
-            <h3>Jorge Melegati</h3>
-            <br>
-            Free University of Bozen-Bolzano, Italy
-        </div>
-        </div>
     </div>
         <hr class="my-4">
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
  <h1 class="display-5">
-            Industry Track Chair
+            Industry Track Chairs
         </h1>
     <div style="display: flex;">
     <div style="flex: 33.33%; padding: 5px;">
