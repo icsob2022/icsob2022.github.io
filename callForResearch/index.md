@@ -2,9 +2,9 @@
 layout: importantdates
 ---
 
-<b style="font-size: 22px" id="CallForResearchPapers">Call for Paper Submissions</b>
+<b style="font-size: 22px" id="CallForResearchPapers">Call for Research Paper Submissions</b>
 
-We welcome both research and industry papers to the conference. The papers should be original and not submitted to or accepted by any other conference or journal. We are looking for (i) <b>full research papers</b> (maximum 15 pages), (ii) <b>short position papers</b> (maximum 6 pages), and (iii) <b>practice papers</b> (maximum 6 pages) describing novel approaches to software business for software products and services within a digital transformation context. Papers should provide insights on and/or industry case studies on digital transformation and software business, software products, practices, and principles.
+We welcome both research and industry papers to the conference. The papers should be original and not submitted to or accepted by any other conference or journal. We are looking for original work describing novel approaches to software business for software products and services within a digital transformation context. Submissions can be: (i) <b>full research papers</b> (maximum 15 pages), (ii) <b>short papers</b> (maximum 6 pages) including research-in-progress papers, roadmap papers, or position and opinion papers, and (iii) <b>practice papers</b> (maximum 6 pages) reporting industry experience. Papers should provide insights on and/or industry case studies on digital transformation and software business, software products, practices, and principles.
 
 The topics that ICSOB welcomes, but not limited to, are listed below:
 
