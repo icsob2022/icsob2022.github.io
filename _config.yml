@@ -226,3 +226,6 @@ conference:
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
+
+# Google Analytics
+google_analytics: G-MX84KBVWX7
