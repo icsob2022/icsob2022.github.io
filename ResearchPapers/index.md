@@ -22,12 +22,12 @@ The topics that ICSOB welcomes, but not limited to, are listed below:
 <li><b>Emerging Industry Trends</b> – emergence of new software business technologies (e.g., AI, big-data analytics, blockchain, cloud computing) and infrastructures (e.g., digital platforms and ecosystems); novel value-creation processes and work practices (e.g., IT consumerization, resource sharing); games and gamification; software business education; disruptive trends in software business; the future of software business.</li>
 </ul>
 <hr>
-<b style="font-size: 22px">Journal Special Section</b>:<br> A selection of best papers will be invited to submit extended versions for tentative publication in a Special Section of a high-quality software engineering journal (details to follow).
+<b style="font-size: 18px">Journal Special Section</b>:<br> A selection of best papers will be invited to submit extended versions for tentative publication in a Special Section of a high-quality software engineering journal (details to follow).
 <hr>
-<b style="font-size: 22px" id="EasyChairPaperSubmission">EasyChair Paper Submission</b><br>
+<b style="font-size: 18px" id="EasyChairPaperSubmission">EasyChair Paper Submission</b><br>
 We invite you to submit your papers to one of these tracks via the <a href="https://easychair.org/conferences/?conf=icsob2022" target="_blank">EasyChair submission system</a>.
 <hr>
-<b style="font-size: 22px" id="ImportantDates">Important Dates</b><br>
+<b style="font-size: 18px" id="ImportantDates">Important Dates</b><br>
 <ul style="list-style: none;">
 <li>Abstract submission (OPTIONAL): 22 July 2022</li>
 <li>Full submission: 29 July 2022</li>
@@ -38,7 +38,7 @@ We invite you to submit your papers to one of these tracks via the <a href="http
 <hr>
 Papers should be submitted in PDF format. The results described must be unpublished and must not be under review elsewhere.
 
-<b style="font-size: 22px" id="SubmissionFormats">Submission Formats</b><br>
+<b style="font-size: 18px" id="SubmissionFormats">Submission Formats</b><br>
 Submissions must conform to Springer’s LNBIP format and should not exceed 15 pages, including all text, figures, references, and appendices.
 
 Submissions not conforming to the LNBIP format, exceeding 15 pages (for full papers) or 6 pages (for short papers), or 4 pages (for poster papers) or being obviously out of the scope of the conference might be rejected.
