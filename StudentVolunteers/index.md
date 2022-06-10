@@ -1,6 +1,7 @@
 ---
 layout: importantdates
 ---
+
 <p>
 <b style="font-size: 22px">Call for Students Volunteers</b>
 </p>
@@ -42,9 +43,10 @@ The student volunteer needs to support the conference organization committee in 
 <p>
 <b style="font-size: 18px">Application Procedure</b>
 </p>
-Please submit your application through the following google form to apply for a student volunteer position at ICSOB 2022.  The form requires some basic information about the applicant, motivations to be the volunteer, and a PDF file containing your short CV. In addition, the applicants also need a short reference letter from their academic advisor. The letter should highlight social, communication, organizational skills, proficiency in English, and anything else that makes the candidate stand out among other applicants. You need a google email account to fill out <b><a href="https://forms.gle/D6WjmPBdF1d9LPWu9" target="_blank">this form</a></b>. 
+Please submit your application through the following google form to apply for a student volunteer position at ICSOB 2022.  The form requires some basic information about the applicant, motivations to be the volunteer, and a PDF file containing your short CV. In addition, the applicants also need a short reference letter from their academic advisor. The letter should highlight social, communication, organizational skills, proficiency in English, and anything else that makes the candidate stand out among other applicants. You need a google email account to fill out <b><a href="https://forms.gle/D6WjmPBdF1d9LPWu9" target="_blank">this form</a></b>.
 
-We will notify the results of the applications by mid-September, 2022.  Please apply at your earliest convenience as we will review and fill the positions as soon as we get suitable candidates. 
+We will notify the results of the applications by mid-September, 2022. Please apply at your earliest convenience as we will review and fill the positions as soon as we get suitable candidates.
+
 <hr>
 <b style="font-size: 18px">Questions?</b>
 
@@ -54,5 +56,3 @@ If you need further information or clarification, please do not hesitate to cont
 
 Usman Rafiq <br>
 <b><a href= "mailto:urafiq@unibz.it">urafiq@unibz.it</a></b>
-
- 
