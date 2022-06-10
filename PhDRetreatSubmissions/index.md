@@ -2,7 +2,7 @@
 layout: importantdates
 ---
 
-<img src="/assets/images/phdlocation.jpeg" alt="PhD Retreat" style="width:100%">
+<img src="/assets/images/phdlocation.jpeg" alt="PhD Retreat" style="width:100%; margin-bottom: 30px">
 <b style="font-size: 22px" id="CallForResearchPapers">PhD Retreat on Alps – Call for Submissions </b>
 
 The ICSOB 2022 PhD Retreat is an exciting one-day event that will happen on the beautiful Italian Alps. The retreat is designed to bring together PhD students who work on research related to software-intensive business. Additional details on the conference and our research topics are available <a href="https://icsob2022.github.io/">here</a>. The PhD Retreat provides a friendly and developmental environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and peers of PhD students in the same field.<br>
@@ -30,7 +30,7 @@ We welcome two categories of submission:
 <li><u>Early-stage PhD submission</u>. This category is for PhD students who have an initial idea about their thesis topic and research design, and are looking for early feedback on how to proceed with their PhD thesis.  
 </li>
 <li><u>Mid-stage PhD submission</u>.  This category is for PhD students who already started the implementation of their thesis with some preliminary results, and are looking for feedback before completing their PhD thesis.</li>
-</ul><br>
+</ul>
 <hr>
 <p>
 <b style="font-size: 18px">Important dates</b></p>
@@ -59,8 +59,8 @@ The PhD Retreat submission must consist of two elements:
 </li>
 </ul>
 </li>
-</ul><br><br>
-To address the items above, we suggest the following structure: Problem, Knowledge Gap, Methodology, Timeline, Preliminary results (if any), and Expected contributions.<br>
+</ul>
+To address the items above, we suggest the following structure: Problem, Knowledge Gap, Methodology, Timeline, Preliminary results (if any), and Expected contributions.<br><br>
 Students interested in participating in the PhD retreat must submit a short paper (5-9 pages) using the CEUR-ART one column template which is available here: <a href="http://ceur-ws.org/Vol-XXX/CEURART.zip">http://ceur-ws.org/Vol-XXX/CEURART.zip</a> (LaTeX) or <a href="http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx">http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx</a> (Word). We are aiming to submit the ICSOB 2022 Companion Proceedings, including the PhD retreat papers to <a href="CEUR-WS.org">CEUR-WS.org</a> for online publication. Please note, there may be some restrictions regarding the volume of papers published via <a href="CEUR-WS.org">CEUR-WS.org</a> which may prevent the online publication of PhD retreat papers.<br>
 All submissions must be written in English.
 <hr>
@@ -71,9 +71,9 @@ All submissions will be peer-reviewed by the Program Committee. The main evaluat
 <p>
 <b style="font-size: 18px">Presentation</b></p>
 Accepted submissions will have the opportunity to present their work in the PhD Retreat, and to have camera-ready of their papers published in the post-conference proceedings. The camera-ready will be sent after the conference (deadline Nov 30, 2022), so that participants have the chance to polish their paper based on the feedback they got from the conference. 
-<br>
+<br><br>
 Participants (of the accepted submissions) will present their research in the conference. Each participant has a max of 10 minutes to present, and 5 min for answering questions. There will be networking breaks after blocks of  presentations, where participants can get feedback and comments about their research in a more relaxed QA session. 
-<br>
+<br><br>
 After completing all  the presentations, there will be a thesis-design workshop session held by experts who will be acting as mentors for the participants during the session.       
 <br>
 In addition, participants will be invited to present at the poster session of the main conference to get more feedback from the conference attendees. This poster session will be an additional (optional) choice for the PhD retreat participants, <u>without the need to submit their research to the poster track</u>. For those participants who are interested to present at the poster track, you can see the poster submission <a href="/Posters">here</a> for more details about the poster formatting, in case you decide to participate. This information can help for preparing their physical posters to be consistent with the poster track formatting.
