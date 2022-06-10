@@ -108,7 +108,7 @@ conference:
           - name: Research Papers
             relative_url: "/ResearchPapers"
           - name: PhD Retreat Submissions
-            relative_url: "/PhDRetreat"
+            relative_url: "/PhDRetreatSubmissions"
           - name: Posters
             relative_url: "/Posters"
           - name: Tutorials and Industry Talks
