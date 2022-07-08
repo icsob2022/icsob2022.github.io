@@ -46,5 +46,3 @@ Submissions not conforming to the LNBIP format, exceeding 15 pages (for full pap
 Information about the Springer LNBIP format can be found <a href="https://www.springer.com/gp/authors-editors/conference-proceedings/conference-proceedings-guidelines" target="_blank">here</a>. Three to five keywords characterizing the paper should be indicated at the end of the abstract. The type of paper (technical/empirical evaluation/experience/exploratory paper) should be indicated in the submission. Submission is done through EasyChair.
 
 Each paper will be reviewed by at least three reviewers. Accepted papers will be presented at ICSOB ’22 and published in the conference proceedings, which is published in the Springer Lecture Notes in Business Information Processing (LNBIP).
-
-<hr>

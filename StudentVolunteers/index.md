@@ -50,9 +50,9 @@ We will notify the results of the applications by mid-September, 2022. Please ap
 <hr>
 <b style="font-size: 18px">Questions?</b>
 
-If you need further information or clarification, please do not hesitate to contact the student volunteer chair with the <b><a href= "mailto:urafiq@unibz.it">email</a></b> subject “ICSOB2022 SV”.
+If you need further information or clarification, please do not hesitate to contact the student volunteer chair with the <b><a href= "mailto:urafiq@unibz.it" target="_blank">email</a></b> subject “ICSOB2022 SV”.
 
 <b style="font-size: 18px">Volunteer Chair</b>
 
 Usman Rafiq <br>
-<b><a href= "mailto:urafiq@unibz.it">urafiq@unibz.it</a></b>
+<b><a href= "mailto:urafiq@unibz.it" target="_blank">urafiq@unibz.it</a></b>

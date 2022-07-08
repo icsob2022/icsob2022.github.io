@@ -26,7 +26,7 @@ The posters will be displayed all day long during the main conference (November 
 <b style="font-size: 18px">Submissions</b></p>
 In order to have a poster presented at the conference,  an extended abstract of up to four pages, including references, must be submitted for review by the specified deadline.  Poster submission will be reviewed by 2 members of the Program Committee via a single-blind reviewing process. The review is based on an extended abstract, which can contain smaller contributions, late breaking developments or in-progress work.
  
-The extended abstract must use the CEUR-ART one column template which is available here: <a href="http://ceur-ws.org/Vol-XXX/CEURART.zip">http://ceur-ws.org/Vol-XXX/CEURART.zip</a> (LaTeX) or <a href="http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx">http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx</a> (Word). All submissions should be made through EasyChair using the link: <a href="https://easychair.org/conferences/?conf=icsob2022">Easychair</a>.
+The extended abstract must use the CEUR-ART one column template which is available here: <a href="http://ceur-ws.org/Vol-XXX/CEURART.zip" target="_blank">http://ceur-ws.org/Vol-XXX/CEURART.zip</a> (LaTeX) or <a href="http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx" target="_blank">http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx</a> (Word). All submissions should be made through EasyChair using the link: <a href="https://easychair.org/conferences/?conf=icsob2022" target="_blank">Easychair</a>.
 
 Participants of PhD retreat are invited to submit and present at the poster session to get more feedback from the conference attendees, without submitting the extended abstract. For those participants, they need to prepare for the poster (see the Guidelines) and may use the printing services (see the Poster Printing).
 
@@ -34,7 +34,7 @@ Participants of PhD retreat are invited to submit and present at the poster sess
 <p>
 <b style="font-size: 18px">Publication of Accepted Submissions
 </b></p>
-We are aiming to submit the ICSOB 2022 Companion Proceedings, including the poster abstracts to <a href="http://ceur-ws.org/">CEUR-WS.org</a> for online publication. Please note, there may be some restrictions regarding the volume of papers published via <a href="http://ceur-ws.org/">CEUR-WS.org</a> which may prevent the online publication of poster abstracts.
+We are aiming to submit the ICSOB 2022 Companion Proceedings, including the poster abstracts to <a href="http://ceur-ws.org/" target="_blank">CEUR-WS.org</a> for online publication. Please note, there may be some restrictions regarding the volume of papers published via <a href="http://ceur-ws.org/" target="_blank">CEUR-WS.org</a> which may prevent the online publication of poster abstracts.
 
 At least one author of each accepted submission must register for the conference and present the work during the poster session.
 

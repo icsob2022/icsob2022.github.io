@@ -3,9 +3,8 @@ layout: importantdates
 ---
 
 <div>
-    <h1 class="display-3">
-        Important Dates
-    </h1>
+  <b>Note: Any deadline or submission must be done within 12AM of that day, based on the <b><a href="https://www.worldtimeserver.com/time-zones/aoe/#:~:text=Anywhere%20on%20Earth%20or%20AoE,the%20Pacific%20all%20year%20round." target="_blank">AoE</a></b> time zone</b>
+    <hr class="my-4">
     <p>The conference will run from 08 November to 11 November, 2022, with the following structure:
         <ul style="list-style: none;">
             <li>08 November: PhD Retreat</li>
@@ -43,5 +42,5 @@ layout: importantdates
         <li>Deadline for industry talk proposal: 30 September 2022</li>
         <li>Industry talk notification of acceptance:  15 October 2022</li>
     </ul>
-    <hr class="my-4">
+
 </div>

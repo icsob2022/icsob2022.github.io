@@ -1,5 +1,12 @@
 </main>
-<footer class="container"></footer>
+<footer class="container">
+    <hr>
+    <a href="https://www.unibz.it" target="_blank">
+        <img src="\assets\images\unibzlogo.jpg" alt="" style="width: 15%;"></a>
+    <a href="https://www.sfscon.it/" target="_blank"><img src="\assets\images\SFSCon.png" alt=""
+            style="width: 15%;"></a>
+    <a href="https://noi.bz.it/it" target="_blank"><img src="\assets\images\noi.png" alt="" style="width: 15%;"></a>
+</footer>
 
 {%- include partials/modal_link.html -%}
 
@@ -8,7 +15,7 @@
 {%- endif -%}
 
 <!-- Append build time to avoid caching of live program embedded in JavaScript file -->
-<script src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: " %s" }}"></script>
+<script src=" {{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: " %s" }}"></script>
 
 </body>
 

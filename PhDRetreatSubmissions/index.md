@@ -5,7 +5,7 @@ layout: importantdates
 <img src="/assets/images/phdlocation.jpeg" alt="PhD Retreat" style="width:100%; margin-bottom: 30px">
 <b style="font-size: 22px" id="CallForResearchPapers">PhD Retreat on Alps – Call for Submissions </b>
 
-The ICSOB 2022 PhD Retreat is an exciting one-day event that will happen on the beautiful Italian Alps. The retreat is designed to bring together PhD students who work on research related to software-intensive business. Additional details on the conference and our research topics are available <a href="https://icsob2022.github.io/">here</a>. The PhD Retreat provides a friendly and developmental environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and peers of PhD students in the same field.<br>
+The ICSOB 2022 PhD Retreat is an exciting one-day event that will happen on the beautiful Italian Alps. The retreat is designed to bring together PhD students who work on research related to software-intensive business. Additional details on the conference and our research topics are available <a href="https://icsob2022.github.io/" target="_blank">here</a>. The PhD Retreat provides a friendly and developmental environment for PhD students to present their research proposal as well as intermediate results, and to discuss them with experts and peers of PhD students in the same field.<br>
 
 The main goals of the PhD Retreat are to provide an opportunity for PhD students to:
 
@@ -17,7 +17,7 @@ The main goals of the PhD Retreat are to provide an opportunity for PhD students
 <li>Present their work as a poster at the ICSOB 2022 poster session.</li>
 <li>Build your research network and have fun! </li>
 </ul><br>
-The PhD Retreat will take place at a beautiful location on the <a href="https://www.ritten.com/en/highplateau/highlight.html">Italian Alps - Renon mountain</a>, which is at the very heart of South Tyrol, above the region’s capital city Bolzano. The retreat will be hosted by <a href="https://www.hdf.it/de/">“Haus der Familie”</a>, a retreat center that is built for hosting courses and community events. It is right on the path of the famous “Freud Promenade”, the forest trail named after the famous psychologist Dr. Sigmund Freud, who spent his holidays in summer 1911 in a nearby hotel. Therefore, in addition to the technical sessions, the PhD retreat participants will have the opportunity to explore the beautiful mountains, walk on the Freud Promenade, and explore the tranquility they have to offer.
+The PhD Retreat will take place at a beautiful location on the <a href="https://www.ritten.com/en/highplateau/highlight.html" target="_blank">Italian Alps - Renon mountain</a>, which is at the very heart of South Tyrol, above the region’s capital city Bolzano. The retreat will be hosted by <a href="https://www.hdf.it/de/" target="_blank">“Haus der Familie”</a>, a retreat center that is built for hosting courses and community events. It is right on the path of the famous “Freud Promenade”, the forest trail named after the famous psychologist Dr. Sigmund Freud, who spent his holidays in summer 1911 in a nearby hotel. Therefore, in addition to the technical sessions, the PhD retreat participants will have the opportunity to explore the beautiful mountains, walk on the Freud Promenade, and explore the tranquility they have to offer.
 <hr>
 <p>
 <b style="font-size: 18px">Targeted participants</b></p>
@@ -44,7 +44,7 @@ We welcome two categories of submission:
 <b style="font-size: 18px">Submissions</b></p>
 The PhD Retreat submission must consist of two elements:
 <ul style="list-style: none;">
-<li style="margin-bottom: 10px">A letter from the PhD student’s supervisor. The letter should include the current state of the PhD student’s research as well as the expected date to complete the PhD thesis. The letter should be submitted via email, directed to the PhD Retreat chairs (<a href= "mailto:aaaldaeej@iau.edu.sa">aaaldaeej@iau.edu.sa</a> and <a href= "mailto:lzaina@ufscar.br">lzaina@ufscar.br</a>). 
+<li style="margin-bottom: 10px">A letter from the PhD student’s supervisor. The letter should include the current state of the PhD student’s research as well as the expected date to complete the PhD thesis. The letter should be submitted via email, directed to the PhD Retreat chairs (<a href= "mailto:aaaldaeej@iau.edu.sa" target="_blank">aaaldaeej@iau.edu.sa</a> and <a href= "mailto:lzaina@ufscar.br">lzaina@ufscar.br</a>). 
 </li>
 <li>A short paper that describes the PhD student’s thesis. The short paper should not be anonymous and should meet the following requirements:
 <ul style="list-style: none;">
@@ -61,7 +61,7 @@ The PhD Retreat submission must consist of two elements:
 </li>
 </ul>
 To address the items above, we suggest the following structure: Problem, Knowledge Gap, Methodology, Timeline, Preliminary results (if any), and Expected contributions.<br><br>
-Students interested in participating in the PhD retreat must submit a short paper (5-9 pages) using the CEUR-ART one column template which is available here: <a href="http://ceur-ws.org/Vol-XXX/CEURART.zip">http://ceur-ws.org/Vol-XXX/CEURART.zip</a> (LaTeX) or <a href="http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx">http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx</a> (Word). We are aiming to submit the ICSOB 2022 Companion Proceedings, including the PhD retreat papers to <a href="CEUR-WS.org">CEUR-WS.org</a> for online publication. Please note, there may be some restrictions regarding the volume of papers published via <a href="CEUR-WS.org">CEUR-WS.org</a> which may prevent the online publication of PhD retreat papers.<br>
+Students interested in participating in the PhD retreat must submit a short paper (5-9 pages) using the CEUR-ART one column template which is available here: <a href="http://ceur-ws.org/Vol-XXX/CEURART.zip" target="_blank">http://ceur-ws.org/Vol-XXX/CEURART.zip</a> (LaTeX) or <a href="http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx" target="_blank">http://ceur-ws.org/Vol-XXX/CEUR-Template-1col.docx</a> (Word). We are aiming to submit the ICSOB 2022 Companion Proceedings, including the PhD retreat papers to <a href="CEUR-WS.org" target="_blank">CEUR-WS.org</a> for online publication. Please note, there may be some restrictions regarding the volume of papers published via <a href="CEUR-WS.org">CEUR-WS.org</a> which may prevent the online publication of PhD retreat papers.<br>
 All submissions must be written in English.
 <hr>
 <p>
