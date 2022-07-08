@@ -3,7 +3,7 @@ layout: importantdates
 ---
 
 <br>
-Registration and payments for the ICSOB 2010 conference should be completed via the online registration system. Registration is required for all persons attending the conference.<br><br>
+Registration and payments for the ICSOB 2022 conference should be completed via the online registration system. Registration is required for all persons attending the conference.<br><br>
 <b>Registration fees. All fees are in EUR €, VAT 0%.</b>
 <ul style="list-style: none;">
 <li>Early-bird registration (07/07/2022 - 31/09/2022): 499 Euro</li>
