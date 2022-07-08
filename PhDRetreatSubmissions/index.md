@@ -65,6 +65,11 @@ Students interested in participating in the PhD retreat must submit a short pape
 All submissions must be written in English.
 <hr>
 <p>
+<b style="font-size: 18px">EasyChair Submission</b></p>
+We invite you to submit your proposal to PhD Retreat track via the <b><a href="https://easychair.org/account/signin?l=H0hvmBlGTzJF0eeVkGCw06" target="_blank">EasyChair submission system</a></b>.
+<hr>
+<p>
+<p>
 <b style="font-size: 18px">Review process</b></p>
 All submissions will be peer-reviewed by the Program Committee. The main evaluation criteria are relevance, originality, soundness, accuracy, and clarity. 
 <hr>
