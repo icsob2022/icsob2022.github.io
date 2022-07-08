@@ -118,6 +118,8 @@ conference:
 
       - name: Important Dates
         relative_url: /importantdates/
+      - name: Registration
+        relative_url: /registration/
       - name: Organisation
         relative_url: /organisation/
       - name: Venue
@@ -134,8 +136,7 @@ conference:
             relative_url: "https://icsob.wordpress.com/"
           - name: 2019
             relative_url: "b2019.wordpress.com/"
-      - name: Registration
-        relative_url: /registration/
+
   # Link Preview for Sharing
   link_preview:
     # also adapt "preposition" property at top for more meaningful descriptions
