@@ -39,7 +39,7 @@ The theme of ICSOB2022 is <b>Software for Digital Transformation</b>. Research a
     <p><b>Research papers:</b>
     <ul style="list-style: none;">
         <li>Abstract submission (OPTIONAL): 22 July 2022</li>
-        <li>Full submission: 29 July 2022</li>
+        <li>Full submission deadline extended: <s>29 July 2022</s> 5 August 2022</li>
         <li>Notification of acceptance: 31 August 2022</li>
         <li>Camera-ready submission: 13 September 2022</li>
     </ul>
