@@ -35,7 +35,7 @@ We welcome two categories of submission:
 <p>
 <b style="font-size: 18px">Important dates</b></p>
 <ul style="list-style: none;">
-<li>Deadline for submission: 1 September, 2022</li>
+<li>Deadline for submission: 5 September, 2022</li>
 <li>Notification of acceptance: 15 September, 2022</li>
 <li>Camera-ready submission: 30 November, 2022</li>
 </ul>

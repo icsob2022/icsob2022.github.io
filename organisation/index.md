@@ -19,6 +19,7 @@ layout: organisation
             Free University of Bozen-Bolzano, Italy
         </div>
     </div>
+    <!--
     <div style="flex: 33.33%; padding: 5px;">
         <p class="lead">
         <p class="lead"></p>
@@ -31,9 +32,12 @@ layout: organisation
             University of Jyväskylä, Finland
         </div>
         </div>
+                -->
     </div>
         <hr class="my-4">
+
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
+
         <h1 class="display-5">
             Program Chairs
         </h1>
@@ -65,6 +69,7 @@ layout: organisation
     </div>
         <hr class="my-4">
         <!-- ---------------------------------------------------------------------------------------------------------------------- -->
+
  <h1 class="display-5">
            PhD Retreat Chairs
         </h1>
@@ -109,7 +114,7 @@ layout: organisation
         <div style="margin-top: 70px;">
           <h3>Henry Edison</h3>
           <br />
-          University of Southern Denmark, Denmark
+          Blekinge Institute of Technology, Sweden
         </div>
       </div>
       <div style="flex: 33.33%; padding: 5px;">
