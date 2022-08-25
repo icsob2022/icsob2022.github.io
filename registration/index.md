@@ -6,9 +6,9 @@ layout: importantdates
 Registration and payments for the ICSOB 2022 conference should be completed via the online registration system. Registration is required for all persons attending the conference.<br><br>
 <b>Registration fees. All fees are in EUR €, VAT included.</b>
 <ul style="list-style: none;">
-<li>Early-bird registration (07/07/2022 - 31/09/2022): 499 Euro</li>
-<li>Regular registration (01/10/2022 - 04/11/2022): 599 Euro</li>
-<li>Late registration  (05/11/2022 - 08/11/2022): 659 Euro</li>
+<li>Early-bird registration (01/09/2022 - 20/10/2022): 499 Euro</li>
+<li>Regular registration (21/10/2022 - 31/10/2022): 599 Euro</li>
+<li>Late registration (01/11/2022 - 08/11/2022): 659 Euro</li>
 <li>Student rate: 249 Euro</li>
 </ul>
 <hr>
