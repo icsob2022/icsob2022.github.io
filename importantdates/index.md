@@ -16,7 +16,7 @@ layout: importantdates
     <p><b>Research papers:</b>
     <ul style="list-style: none;">
     <li>Abstract submission (OPTIONAL): 22 July 2022</li>
-    <li style="color:red">Full submission deadline extended: <s>29 July 2022</s> 5 August 2022</li>
+    <li>Full submission deadline: 5 August 2022</li>
     <li style="color:red">Notification of acceptance extended: <s>31 August 2022</s> 2 September 2022</li>
     <li>Camera-ready submission: 13 September 2022</li>
     </ul>

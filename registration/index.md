@@ -29,11 +29,12 @@ Please note that the fee does NOT include travel insurance or accommodation. Fur
 <hr>
 <b>Discount:</b>
 <ul style="list-style: none;">
-<li>Discount for participants from developing countries</li>
-<li>All student volunteers can have free registration</li>
-<li>One 50% discount for tutorials of 90 minutes, and one FREE registration for tutorials of 180 minutes</li>
+<li>For participants residing in developing countries/regions, a discount of 30 percent of the registration fee applies. For a list of developing countries defined by IEEE, please check <a href="https://www.ieee.org/membership/join/emember-countries.html" target="_blank">here</a>.</li>
+<li>All student volunteers can have free registration.</li>
+<li>One organiser per tutorial/workshop of 90 minutes will receive a 50 percent discount of the registration fee. One organiser per tutorial/workshop of 180 minutes will receive a FREE registration. In both cases, the co-organisers, if any, need to register as normal participants.
+</li>
 </ul>
 <hr>
 <b>Payment:</b>
 <br>
-Kindly note that it is not possible to save data in the registration form: registration and payment must be completed in one session. Therefore, ensure that you are ready to make your payment immediately upon completion of the registration form.
+Kindly note that completing the registration form DOES NOT mean that you have completed the payment procedure. There is an explicit payment step to be executed. It is highly recommended to execute the payment step as soon as you complete the registration form. If you opt to pay at a later stage, please log in the registration system using the username and password you received during the registration process, and follow the instruction for the payment. <b>Registration is not complete until your payment is received.</b>

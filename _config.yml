@@ -118,11 +118,15 @@ conference:
       - name: Important Dates
         relative_url: /importantdates/
       - name: Program
-        relative_url: /program/  
+        relative_url: /program/
       - name: Registration
         relative_url: /registration/
       - name: Organisation
-        relative_url: /organisation/
+        menu:
+          - name: Organising Committee
+            relative_url: /organisation/
+          - name: Program Committee
+            relative_url: /programCommittee/
       - name: Venue
         relative_url: /venue/
       - name: Travel information
