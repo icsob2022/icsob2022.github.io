@@ -18,8 +18,8 @@ The participants should submit a 1-2 page document, free format, containing the 
 <br>
 
 <ul style="list-style: none;">
-<li>Deadline for tutorials proposal: 31 August 2022</li>
-<li>Tutorials notification of acceptance: 15 September 2022</li>
+        <li style="color:red">Deadline for tutorials proposal extended: <s>31 August 2022</s> 11 September 2022</li>
+        <li style="color:red">Tutorials notification of acceptance extended: <s>15 September 2022</s> 16 September 2022</li>
 </ul>
 <hr>
 <p>

@@ -53,10 +53,8 @@ The best poster award will be presented during the main conference. Conference p
 <b style="font-size: 18px">Important Dates
 </b></p>
 <ul style="list-style: none;">
-<li>Poster abstract submission deadline: September 7, 2022
-</li>
-<li>Notification of acceptance: September 15, 2022
-</li>
+<li style="color:red">Poster abstract submission deadline extended: <s>7 September 2022</s> 11 September 2022</li>
+<li style="color:red">Notification of acceptance extended: <s>15 September 2022</s> 16 September 2022</li>
 <li>Poster (print version) submission: October 31, 2022
 </li>
 <li>Poster abstract camera ready submission: November 30, 2022
