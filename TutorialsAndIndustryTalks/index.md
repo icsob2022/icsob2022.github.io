@@ -24,7 +24,7 @@ The participants should submit a 1-2 page document, free format, containing the 
 <hr>
 <p>
 <b style="font-size: 18px">Call for Industry Talks</b></p>
-The objective of the industry talks is to present research related to the conference scope tailored for industry practitioners. The industry talks will happen during the first day of the South Tyrol Free Software Conference (<a href="sfscon.it" target="_blank">SFScon</a> ), which will happen right after the main conference days. Each talk should have 15 minutes. We <b><u>strongly</u></b> encourage participants with works accepted in other ICSOB tracks to submit a related industry talk.
+The objective of the industry talks is to present research related to the conference scope tailored for industry practitioners. The industry talks will happen during the first day of the South Tyrol Free Software Conference (<a href="https://www.sfscon.it/" target="_blank">SFScon</a> ), which will happen right after the main conference days. Each talk should have 15 minutes. We <b><u>strongly</u></b> encourage participants with works accepted in other ICSOB tracks to submit a related industry talk.
 <br>
 The participants should submit a 1-2 page document, free format, containing the following information: (a) title; (b) description to be used in the program (350 characters); (c) presenter short-CV;  (d) presentation topics; (e) how the content will be tailored to an industry audience; (f) (optional) publications related to the content (mention if they are part of ICSOB 2022 program).
 <br>
