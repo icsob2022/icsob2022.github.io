@@ -38,8 +38,9 @@ layout: importantdates
 <li>Late registration (01/11/2022 - 08/11/2022): 659 Euro</li>
 <li>Student rate: 249 Euro</li>
 </ul>
-<a style="font-size: 25px; text-align:center margin-left: auto;
-margin-right: auto; text-decoration: none;" href="https://icsob2022.github.io/registration/" target="_blank"><center>The registration system will be open soon. Please revisit this page frequently. Thank you for your patience. For any urgent request, please contact the conference organiser: xiaofeng.wang at unibz.it</center></a>
+<a style="font-size: 35px; text-align:center margin-left: auto;
+margin-right: auto; text-decoration: none;" href="https://www.conftool.com/icsob2022/register.php" target="_blank"><center>REGISTER HERE</center></a>
+<u>For any urgent request, please contact the conference organiser: xiaofeng.wang at unibz.it</u>
 <b>Registration includes:</b>
 <ul style="list-style: none;">
 <li>Access to all sessions of the conference, tutorials and Industry talks</li>
@@ -74,7 +75,7 @@ If you are <b>registering for the first time</b> please
 If you <b>already started a registration procedure</b> please login <a href="https://www.conftool.com/icsob2022/" target="_blank">here</a>, using the credentials you received via E-mail.
 -->
 
-<!---
+
 <table style="margin-left: auto;
   margin-right: auto;   text-align: center;">
   <tr>
@@ -87,4 +88,4 @@ If you <b>already started a registration procedure</b> please login <a href="htt
     <td><a href="https://www.conftool.com/icsob2022/" target="_blank"><button class="button button1">Login Here</button></a></td>
   </tr>
 </table>
--->
+
