@@ -39,7 +39,7 @@ layout: importantdates
 <li>Student rate: 249 Euro</li>
 </ul>
 <a style="font-size: 35px; text-align:center margin-left: auto;
-margin-right: auto; text-decoration: none;" href="https://www.conftool.com/icsob2022/register.php" target="_blank"><center>REGISTER HERE</center></a>
+margin-right: auto; text-decoration: none;" href="https://www.conftool.com/icsob2022/register.php" target="_blank"><center>REGISTER HERE</center></a><br>
 <u>For any urgent request, please contact the conference organiser: xiaofeng.wang at unibz.it</u>
 <b>Registration includes:</b>
 <ul style="list-style: none;">
