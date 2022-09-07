@@ -35,9 +35,7 @@ layout: organisation
                 -->
     </div>
         <hr class="my-4">
-
-<!-- ---------------------------------------------------------------------------------------------------------------------- -->
-
+<!-- ----------------------------------------------------------------------------------------------------------------------->
         <h1 class="display-5">
             Program Chairs
         </h1>
@@ -51,7 +49,7 @@ layout: organisation
         <div style="margin-top: 70px;">
             <h3>Noel Carroll</h3>
             <br>
-            National University of Ireland, Galway, Ireland
+            University of Galway, Ireland
         </div>
     </div>
     <div style="flex: 33.33%; padding: 5px;">
@@ -69,7 +67,6 @@ layout: organisation
     </div>
         <hr class="my-4">
         <!-- ---------------------------------------------------------------------------------------------------------------------- -->
-
  <h1 class="display-5">
            PhD Retreat Chairs
         </h1>

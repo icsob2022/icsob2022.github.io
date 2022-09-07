@@ -30,7 +30,7 @@ td:nth-child(2) {
     <tr>
     <td>Matthew</td>
     <td>Ajimati</td>
-    <td>National University of Ireland Galway</td>
+    <td>University of Galway</td>
   </tr>
     <tr>
     <td>Sjaak</td>
