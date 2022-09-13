@@ -24,9 +24,9 @@ layout: location
             Porta Nuova station, Bolzano is reachable with a single train in around
             2 hours. See timetables and book tickets on <b><a href="https://www.trenitalia.com/"
                     target="_blank">Trenitalia</a></b> or
-            <b><a href="www.italotreno.it" target="_blank">Italo</a></b>. Alternatively, Alto Adige Südtirol Bus
+            <b><a href="https://www.italotreno.it" target="_blank">Italo</a></b>. Alternatively, Alto Adige Südtirol Bus
             offers airport shuttle services between the airport and Bolzano. Tickets cost 50€ - 75€. Similar offers are
-            by <b><a href="www.flixbus.it" target="_blank">Flixbus</a></b>.
+            by <b><a href="https://www.flixbus.it" target="_blank">Flixbus</a></b>.
         </li>
     </ul>
     </p>
@@ -41,13 +41,13 @@ layout: location
             metro. From
             the train station of
             Milan you can get to Bolzano in around 3 hours. Book tickets on <b><a href="https://www.trenitalia.com/"
-                    target="_blank">Trenitalia</a></b> or <b><a href="www.italotreno.it" target="_blank">Italo</a></b>.
+                    target="_blank">Trenitalia</a></b> or <b><a href="https://www.italotreno.it" target="_blank">Italo</a></b>.
             Alternatively, Alto
             Adige Südtirol Bus offers airport shuttle services between those airports and Bolzano. Tickets cost 50€ -
-            75€. Similar offers are by <b><a href="www.flixbus.it" target="_blank">Flixbus</a></b>. From Bergamo, the
+            75€. Similar offers are by <b><a href="https://www.flixbus.it" target="_blank">Flixbus</a></b>. From Bergamo, the
             best option is to
             reach
-            Bolzano by <b><a href="www.flixbus.it" target="_blank">Flixbus</a></b>.
+            Bolzano by <b><a href="https://www.flixbus.it" target="_blank">Flixbus</a></b>.
             Alternatively, you may reach either Milano Centrale or Brescia by bus (e.g. <b><a
                     href="https://www.terravision.eu/italiano/airport_transfer/bus-aeroporto-di-bergamo-milano/"
                     target="_blank">Terravision</a></b>
@@ -59,7 +59,7 @@ layout: location
         <li>Venice has two airports: Venezia Marco Polo and Treviso Canova. Both airports are connected through the
             regular bus services to the nearest train stations: Venezia Mestre and Venezia Santa Lucia. From the train
             stations of Venice you can get to Bolzano in around 4 hours (see <b><a href="https://www.trenitalia.com/"
-                    target="_blank">Trenitalia</a></b> or <b><a href="www.italotreno.it" target="_blank">Italo</a></b>).
+                    target="_blank">Trenitalia</a></b> or <b><a href="https://www.italotreno.it" target="_blank">Italo</a></b>).
             Deutsche
             Bahn
             Eurocity operates a train from Venezia Mestre to Bolzano Bozen once daily. Tickets cost 27€ - 40€ and the
@@ -68,12 +68,12 @@ layout: location
     <p><b>From Munich:</b></p>
     <ul style="list-style: none;">
         <li>If you arrive in Munich, take the S8 (Metro) to the central station. From the central station direct
-            international trains (e.g., <b><a href="https://www.bahn.de/ target=" _blank"">DB Bahn</a></b> and <b><a
+            international trains (e.g., <b><a href="https://www.bahn.de/" target="_blank">DB Bahn</a></b> and <b><a
                     href="https://www.obb-italia.com/de/" target="_blank">OBB</a></b>) go to Bozen-Bolzano every two
             hours, while a
             cheaper
             option are
-            buses operated by <b><a href="www.flixbus.it" target="_blank">Flixbus</a></b>.</li>
+            buses operated by <b><a href="https://www.flixbus.it" target="_blank">Flixbus</a></b>.</li>
     </ul>
     <hr class="my-4">
     <p><b>By car:</b></p>
@@ -86,14 +86,14 @@ layout: location
     <p><b>By train:</b></p>
     <ul style="list-style: none;">
         <li>To arrive by train, check out <b><a href="https://www.trenitalia.com/" target="_blank">Trenitalia</a></b>
-            and <b><a href="www.italotreno.it" target="_blank">Italo</a></b> for more information and options. The
+            and <b><a href="https://www.italotreno.it" target="_blank">Italo</a></b> for more information and options. The
             train station is only a few minutes walking from the city center.</li>
     </ul>
     <p><b>By bus:</b></p>
     <ul style="list-style: none;">
         <li>For getting Bolzano by bus, please check out the following service providers: <b><a
-                    href="www.altoadigebus.com" target="_blank">Alto Adige Südtirol Bus</a></b>,
-            <b><a href="www.flixbus.it" target="_blank">Flixbus</a></b>, <b><a href="www.busgroup.eu"
+                    href="https://www.altoadigebus.it" target="_blank">Alto Adige Südtirol Bus</a></b>,
+            <b><a href="https://www.flixbus.it" target="_blank">Flixbus</a></b>, <b><a href="https://www.busgroup.eu"
                     target="_blank">Busgroup</a></b>.
         </li>
     </ul>
