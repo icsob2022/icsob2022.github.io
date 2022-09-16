@@ -24,9 +24,9 @@ layout: location
             Porta Nuova station, Bolzano is reachable with a single train in around
             2 hours. See timetables and book tickets on <b><a href="https://www.trenitalia.com/"
                     target="_blank">Trenitalia</a></b> or
-            <b><a href="www.italotreno.it" target="_blank">Italo</a></b>. Alternatively, Alto Adige Südtirol Bus
+            <b><a href="https://www.italotreno.it" target="_blank">Italo</a></b>. Alternatively, Alto Adige Südtirol Bus
             offers airport shuttle services between the airport and Bolzano. Tickets cost 50€ - 75€. Similar offers are
-            by <b><a href="www.flixbus.it" target="_blank">Flixbus</a></b>.
+            by <b><a href="https://www.flixbus.it" target="_blank">Flixbus</a></b>.
         </li>
     </ul>
     </p>
@@ -47,7 +47,7 @@ layout: location
             75€. Similar offers are by <b><a href="www.flixbus.it" target="_blank">Flixbus</a></b>. From Bergamo, the
             best option is to
             reach
-            Bolzano by <b><a href="www.flixbus.it" target="_blank">Flixbus</a></b>.
+            Bolzano by <b><a href="https://www.flixbus.it" target="_blank">Flixbus</a></b>.
             Alternatively, you may reach either Milano Centrale or Brescia by bus (e.g. <b><a
                     href="https://www.terravision.eu/italiano/airport_transfer/bus-aeroporto-di-bergamo-milano/"
                     target="_blank">Terravision</a></b>
@@ -59,7 +59,7 @@ layout: location
         <li>Venice has two airports: Venezia Marco Polo and Treviso Canova. Both airports are connected through the
             regular bus services to the nearest train stations: Venezia Mestre and Venezia Santa Lucia. From the train
             stations of Venice you can get to Bolzano in around 4 hours (see <b><a href="https://www.trenitalia.com/"
-                    target="_blank">Trenitalia</a></b> or <b><a href="www.italotreno.it" target="_blank">Italo</a></b>).
+                    target="_blank">Trenitalia</a></b> or <b><a href="https://www.italotreno.it" target="_blank">Italo</a></b>).
             Deutsche
             Bahn
             Eurocity operates a train from Venezia Mestre to Bolzano Bozen once daily. Tickets cost 27€ - 40€ and the
@@ -73,7 +73,7 @@ layout: location
             hours, while a
             cheaper
             option are
-            buses operated by <b><a href="www.flixbus.it" target="_blank">Flixbus</a></b>.</li>
+            buses operated by <b><a href="https://www.flixbus.it" target="_blank">Flixbus</a></b>.</li>
     </ul>
     <hr class="my-4">
     <p><b>By car:</b></p>
@@ -86,22 +86,20 @@ layout: location
     <p><b>By train:</b></p>
     <ul style="list-style: none;">
         <li>To arrive by train, check out <b><a href="https://www.trenitalia.com/" target="_blank">Trenitalia</a></b>
-            and <b><a href="www.italotreno.it" target="_blank">Italo</a></b> for more information and options. The
+            and <b><a href="https://www.italotreno.it" target="_blank">Italo</a></b> for more information and options. The
             train station is only a few minutes walking from the city center.</li>
     </ul>
     <p><b>By bus:</b></p>
     <ul style="list-style: none;">
         <li>For getting Bolzano by bus, please check out the following service providers: <b><a
-                    href="www.altoadigebus.com" target="_blank">Alto Adige Südtirol Bus</a></b>,
-            <b><a href="www.flixbus.it" target="_blank">Flixbus</a></b>, <b><a href="www.busgroup.eu"
+                    href="https://www.altoadigebus.com" target="_blank">Alto Adige Südtirol Bus</a></b>,
+            <b><a href="https://www.flixbus.it" target="_blank">Flixbus</a></b>, <b><a href="https://www.busgroup.eu"
                     target="_blank">Busgroup</a></b>.
         </li>
     </ul>
     <hr class="my-4">
     <b>
         The address of the conference is: Via Alessandro Volta, 13, 39100 Bolzano BZ</b>
-
-    <!--
     <h1 class="display-5" style="text-align: center;">
         Where to stay in Bolzano
     </h1>
@@ -110,14 +108,19 @@ layout: location
     Examples follow.
     <p><b>Hotels in Bolzano:</b></p>
     <ul style="list-style: none;">
-        <li><b>KOLPINGHAUS</b>: <a href="mailto:info@kolpingbozen.it">info@kolpingbozen.it</a></li>
-        <li><b>YOUTHOSTEL</b>: <a href="mailto:info@bolzano@ostello.bz">bolzano@ostello.bz</a></li>
-        <li><b>HOTEL FIGL</b>: <a href="mailto:info@info@figl.net">info@figl.net</a></li>
-        <li><b>HOTEL FEICHTER</b>: <a href="mailto:info@info@hotelfeichter.it">info@hotelfeichter.it</a></li>
-        <li><b>HOTEL GREIF</b>: <a href="mailto:info@info@greif.it">info@greif.it</a></li>
+        <li><b>HOTEL FIGL</b>: <a href="mailto:info@figl.net">info@figl.net</a><br><a href="https://www.figl.net">www.figl.net</a></li>
+        <li><b>HOTEL FEICHTER</b>: <a href="mailto:info@hotelfeichter.it">info@hotelfeichter.it</a><br><a href="https://www.hotelfeichter.it">www.hotelfeichter.it</a></li>
+        <li><b>HOTEL GREIF</b>: <a href="mailto:info@greif.it">info@greif.it</a><br><a href="https://www.greif.it">www.greif.it</a></li>
         <li><b>PARKHOTEL LUNA MONDSCHEIN</b>: <a
-                href="mailto:info@info@parkhotelmondschein.com">info@parkhotelmondschein.com</a></li>
+                href="mailto:info@parkhotelmondschein.com">info@parkhotelmondschein.com</a><br><a href="https://www.hotel-luna.it">www.hotel-luna.it</a></li>
+        <li><b>STADT HOTEL CITTÀ</b>: <a href="mailto:info@hotel-citta.com">info@hotel-citta.com</a><br><a href="https://www.hotel-citta.com">www.hotel-citta.com</a></li>
+        <li><b>HOTEL SCALA STIEGL</b>: <a href="mailto:info@scalahot.com">ininfo@scalahot.com</a><br><a href="https://wwww.scalahot.com">www.scalahot.com</a></li>
     </ul>
-    Please note that Bolzano offers also many options on <a href="https://www.airbnb.it/">Airbnb</a>.
-    -->
+    Budget accommodations in the city center (good option for PhD students):
+    <ul style="list-style: none;">
+        <li><b>KOLPINGHAUS</b>: <a href="mailto:info@kolpingbozen.it">info@kolpingbozen.it</a><br><a href="https://www.kolpingbozen.it/en/">www.kolpingbozen.it/en/</a></li>
+        <li><b>YOUTHOSTEL</b>: <a href="mailto:info@bolzano@ostello.bz">bolzano@ostello.bz</a><br><a href="https://www.jugendherberge.bz/en/bolzano/youth-hostel/">www.jugendherberge.bz/en/bolzano/youth-hostel/</a></li>
+    </ul>
+    Please note that Bolzano offers also many options on <a href="https://www.airbnb.it/">Airbnb</a>.<br>
+    More info about south tyrol <a href="https://www.south-tirol.com/">here</a>.
 </div>
