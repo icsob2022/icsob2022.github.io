@@ -100,6 +100,7 @@ layout: location
     <hr class="my-4">
     <b>
         The address of the conference is: Via Alessandro Volta, 13, 39100 Bolzano BZ</b>
+            <hr class="my-4">
     <h1 class="display-5" style="text-align: center;">
         Where to stay in Bolzano
     </h1>
@@ -108,19 +109,19 @@ layout: location
     Examples follow.
     <p><b>Hotels in Bolzano:</b></p>
     <ul style="list-style: none;">
-        <li><b>HOTEL FIGL</b>: <a href="mailto:info@figl.net">info@figl.net</a><br><a href="https://www.figl.net">www.figl.net</a></li>
-        <li><b>HOTEL FEICHTER</b>: <a href="mailto:info@hotelfeichter.it">info@hotelfeichter.it</a><br><a href="https://www.hotelfeichter.it">www.hotelfeichter.it</a></li>
-        <li><b>HOTEL GREIF</b>: <a href="mailto:info@greif.it">info@greif.it</a><br><a href="https://www.greif.it">www.greif.it</a></li>
+        <li><b>HOTEL FIGL</b>: <a href="mailto:info@figl.net">info@figl.net</a><br><a href="https://www.figl.net" target="_blank">www.figl.net</a></li>
+        <li><b>HOTEL FEICHTER</b>: <a href="mailto:info@hotelfeichter.it">info@hotelfeichter.it</a><br><a href="https://www.hotelfeichter.it" target="_blank">www.hotelfeichter.it</a></li>
+        <li><b>HOTEL GREIF</b>: <a href="mailto:info@greif.it">info@greif.it</a><br><a href="https://www.greif.it" target="_blank">www.greif.it</a></li>
         <li><b>PARKHOTEL LUNA MONDSCHEIN</b>: <a
-                href="mailto:info@parkhotelmondschein.com">info@parkhotelmondschein.com</a><br><a href="https://www.hotel-luna.it">www.hotel-luna.it</a></li>
-        <li><b>STADT HOTEL CITTÀ</b>: <a href="mailto:info@hotel-citta.com">info@hotel-citta.com</a><br><a href="https://www.hotel-citta.com">www.hotel-citta.com</a></li>
-        <li><b>HOTEL SCALA STIEGL</b>: <a href="mailto:info@scalahot.com">ininfo@scalahot.com</a><br><a href="https://wwww.scalahot.com">www.scalahot.com</a></li>
+                href="mailto:info@parkhotelmondschein.com">info@parkhotelmondschein.com</a><br><a href="https://www.hotel-luna.it" target="_blank">www.hotel-luna.it</a></li>
+        <li><b>STADT HOTEL CITTÀ</b>: <a href="mailto:info@hotel-citta.com">info@hotel-citta.com</a><br><a href="https://www.hotel-citta.com" target="_blank">www.hotel-citta.com</a></li>
+        <li><b>HOTEL SCALA STIEGL</b>: <a href="mailto:info@scalahot.com">ininfo@scalahot.com</a><br><a href="https://wwww.scalahot.com" target="_blank">www.scalahot.com</a></li>
     </ul>
-    Budget accommodations in the city center (good option for PhD students):
+    <p><b>Budget accommodations in the city center (good option for PhD students):</b></p>
     <ul style="list-style: none;">
-        <li><b>KOLPINGHAUS</b>: <a href="mailto:info@kolpingbozen.it">info@kolpingbozen.it</a><br><a href="https://www.kolpingbozen.it/en/">www.kolpingbozen.it/en/</a></li>
-        <li><b>YOUTHOSTEL</b>: <a href="mailto:info@bolzano@ostello.bz">bolzano@ostello.bz</a><br><a href="https://www.jugendherberge.bz/en/bolzano/youth-hostel/">www.jugendherberge.bz/en/bolzano/youth-hostel/</a></li>
+        <li><b>KOLPINGHAUS</b>: <a href="mailto:info@kolpingbozen.it">info@kolpingbozen.it</a><br><a href="https://www.kolpingbozen.it/en/" target="_blank">www.kolpingbozen.it/en/</a></li>
+        <li><b>YOUTHOSTEL</b>: <a href="mailto:info@bolzano@ostello.bz">bolzano@ostello.bz</a><br><a href="https://www.jugendherberge.bz/en/bolzano/youth-hostel/" target="_blank">www.jugendherberge.bz/en/bolzano/youth-hostel/</a></li>
     </ul>
-    Please note that Bolzano offers also many options on <a href="https://www.airbnb.it/">Airbnb</a>.<br>
-    More info about south tyrol <a href="https://www.south-tirol.com/">here</a>.
+    Please note that Bolzano offers also many options on <a href="https://www.airbnb.it/" target="_blank">Airbnb</a>.<br>
+    More info about south tyrol <a href="https://www.south-tirol.com/" target="_blank">here</a>.
 </div>
