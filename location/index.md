@@ -41,10 +41,10 @@ layout: location
             metro. From
             the train station of
             Milan you can get to Bolzano in around 3 hours. Book tickets on <b><a href="https://www.trenitalia.com/"
-                    target="_blank">Trenitalia</a></b> or <b><a href="www.italotreno.it" target="_blank">Italo</a></b>.
+                    target="_blank">Trenitalia</a></b> or <b><a href="https://www.italotreno.it" target="_blank">Italo</a></b>.
             Alternatively, Alto
             Adige Südtirol Bus offers airport shuttle services between those airports and Bolzano. Tickets cost 50€ -
-            75€. Similar offers are by <b><a href="www.flixbus.it" target="_blank">Flixbus</a></b>. From Bergamo, the
+            75€. Similar offers are by <b><a href="https://www.flixbus.it" target="_blank">Flixbus</a></b>. From Bergamo, the
             best option is to
             reach
             Bolzano by <b><a href="https://www.flixbus.it" target="_blank">Flixbus</a></b>.
@@ -68,7 +68,7 @@ layout: location
     <p><b>From Munich:</b></p>
     <ul style="list-style: none;">
         <li>If you arrive in Munich, take the S8 (Metro) to the central station. From the central station direct
-            international trains (e.g., <b><a href="https://www.bahn.de/ target=" _blank"">DB Bahn</a></b> and <b><a
+            international trains (e.g., <b><a href="https://www.bahn.de/" target="_blank">DB Bahn</a></b> and <b><a
                     href="https://www.obb-italia.com/de/" target="_blank">OBB</a></b>) go to Bozen-Bolzano every two
             hours, while a
             cheaper
@@ -92,7 +92,7 @@ layout: location
     <p><b>By bus:</b></p>
     <ul style="list-style: none;">
         <li>For getting Bolzano by bus, please check out the following service providers: <b><a
-                    href="https://www.altoadigebus.com" target="_blank">Alto Adige Südtirol Bus</a></b>,
+                    href="https://www.altoadigebus.it" target="_blank">Alto Adige Südtirol Bus</a></b>,
             <b><a href="https://www.flixbus.it" target="_blank">Flixbus</a></b>, <b><a href="https://www.busgroup.eu"
                     target="_blank">Busgroup</a></b>.
         </li>
