@@ -54,7 +54,7 @@ The theme of ICSOB2022 is <b>Software for Digital Transformation</b>. Research a
     <p><b>Posters track:</b></p>
     <ul style="list-style: none;">
         <li style="color:red">Poster abstract submission deadline extended: <s>7 September 2022</s> 11 September 2022</li>
-        <li style="color:red">Notification of acceptance extended: <s>15 September 2022</s> 19 September 2022</li>
+        <li style="color:red">Notification of acceptance extended: <s>15 September 2022</s> 21 September 2022</li>
         <li>Poster (print version) submission: October 31 2022</li>
         <li>Poster abstract camera ready submission: November 30 2022</li>
     </ul>
