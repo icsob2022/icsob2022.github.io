@@ -31,13 +31,16 @@ layout: importantdates
 
 <br>
 <b>Registration and payments for the ICSOB 2022 conference should be completed via the online registration system.</b> Registration fees is required for all persons attending the conference.<br>
+If you are planning to <b>attend</b> the <b>tutorials only</b> please register at <a target="_blank" style="text-decoration: none;" href="/tutorials">this link</a>.<br><br>
 <b>Registration fees:</b>
 <ul style="list-style: none;">
 <li>Early-bird registration (01/09/2022 - 20/10/2022): 499 Euro</li>
 <li>Regular registration (21/10/2022 - 31/10/2022): 599 Euro</li>
 <li>Late registration (01/11/2022 - 08/11/2022): 659 Euro</li>
 <li>Student rate: 249 Euro. Including PhD, master and undergraduate students. You need to show a valid document to prove your student status (e.g., a student ID card, a written letter from your university to declare your student status) when collecting your conference badge at the registration desk.</li>
+<br>
 </ul>
+
 <a style="font-size: 35px; text-align:center margin-left: auto;
 margin-right: auto; text-decoration: none;" href="https://www.conftool.com/icsob2022/register.php" target="_blank"><center>REGISTER HERE</center></a><br>
 <u>For any urgent request, please contact the conference organiser: xiaofeng.wang at unibz.it</u><br>

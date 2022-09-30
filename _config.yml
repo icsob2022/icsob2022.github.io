@@ -115,6 +115,8 @@ conference:
             relative_url: "/TutorialsAndIndustryTalks"
           - name: Student Volunteers
             relative_url: "/StudentVolunteers"
+      - name: Tutorials
+        relative_url: /tutorials
       - name: Important Dates
         relative_url: /importantdates/
       - name: Program
@@ -127,8 +129,8 @@ conference:
             relative_url: /organisation/
           - name: Program Committee
             relative_url: /programCommittee/
-      - name: Venue
-        relative_url: /venue/
+          - name: Venue
+            relative_url: /venue/
       - name: Travel information
         relative_url: /location/
       - name: Series
