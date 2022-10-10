@@ -208,10 +208,14 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
+      - name: Long Paper
         color: info
-      - name: Cat B
+      - name: Short Paper
         color: success
+      - name: Keynote
+        color: warning
+      - name: Tutorial
+        color: secondary     
 
     # Hide icons on talk overview page
     hide_icons: false

@@ -1,3 +1,4 @@
 ---
-name: 30 Nov. 2022
+name: Room B
+hide: true
 ---
