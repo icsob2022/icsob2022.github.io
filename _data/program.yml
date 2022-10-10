@@ -37,7 +37,13 @@ days:
             time_end: '15:45'
           - name: Posters pitch
             time_start: '15:45'
-            time_end: '16:00'               
+            time_end: '16:00'
+          - name: Discussion Panel 1
+            time_start: '16:15'
+            time_end: '17:00'
+          - name: Social Dinner
+            time_start: '18:00'
+            time_end: '21:00'                   
 
       - name: Room B
         talks:
@@ -95,6 +101,12 @@ days:
           - name: 'Green ICT Adoption and Challenges: Evidence from the Finnish ICT Sector'
             time_start: '14:45'
             time_end: '15:00' 
+          - name: Discussion Panel 2  
+            time_start: '15:15'
+            time_end: '16:00'
+          - name: Closing
+            time_start: '16:00'
+            time_end: '16:30'   
       
       - name: Room B
         talks:
