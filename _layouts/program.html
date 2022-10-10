@@ -76,6 +76,7 @@
           $zindex-dropdown).
           -->
           {%- assign z-index-max = 999 -%}
+          {%- assign first_row = true -%}
 
           {%- for i in (1..nbr_steps) -%}
             {%- assign current_day = 0 -%}
@@ -93,7 +94,8 @@
 
             <tr>
 
-              {%- if current_min == 0 -%}
+              {%- if current_min == 0 or first_row -%}
+                {%- assign first_row = false -%}
                 <th scope="row" class="col-title text-right" style="z-index: {{ z-index-max }}">
                   {{- current_time -}}
                 </th>
