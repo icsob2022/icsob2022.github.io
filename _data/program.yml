@@ -50,7 +50,7 @@ days:
           - name: Posters pitch
             time_start: '15:45'
             time_end: '16:00'
-          - name: Discussion Panel 1 (Best reviewer award)
+          - name: Discussion Panel 1
             time_start: '16:15'
             time_end: '17:00'
           - name: Social Dinner
@@ -112,7 +112,7 @@ days:
           - name: Discussion Panel 2  
             time_start: '15:15'
             time_end: '16:00'
-          - name: Closing (Best paper award and presentation of ICSOB 2023 host)
+          - name: Closing
             time_start: '16:00'
             time_end: '16:30'   
   

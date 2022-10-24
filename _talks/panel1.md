@@ -1,5 +1,5 @@
 ---
-name: Discussion Panel 1 (Best reviewer award)
+name: Discussion Panel 1
 hide: true
 categories:
   - Others
