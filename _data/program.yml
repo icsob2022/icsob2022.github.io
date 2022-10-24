@@ -1,7 +1,19 @@
 days:
+  - name: Tuesday
+    abbr: Tue
+    date: 2022-11-08
+    rooms:
+      - name: Room A
+        talks:
+          - name: PHD Retreat
+            time_start: '9:00'
+            time_end: '17:00'
+          - name: Welcome Reception
+            time_start: '18:00'
+            time_end: '21:00'
   - name: Wednesday
     abbr: Wed
-    date: 2020-11-09
+    date: 2022-11-09
     rooms:
       - name: Room A
         talks:
@@ -38,30 +50,26 @@ days:
           - name: Posters pitch
             time_start: '15:45'
             time_end: '16:00'
-          - name: Discussion Panel 1
+          - name: Discussion Panel 1 (Best reviewer award)
             time_start: '16:15'
             time_end: '17:00'
           - name: Social Dinner
             time_start: '18:00'
             time_end: '21:00'                   
-
       - name: Room B
         talks:
-          - name: Tutorial 1
-            time_start: '10:15'
-            time_end: '11:45'
           - name: Overcoming Barriers to Digital Transformation – Development of a Decision Matrix
-            time_start: '12:45'
-            time_end: '13:15'
+            time_start: '10:15'
+            time_end: '10:45'
           - name: Definition of the Enterprise Integration Platforms as a Service — Towards a Common Understanding
-            time_start: '13:15'
-            time_end: '13:45'
+            time_start: '10:45'
+            time_end: '11:15'
           - name: A Systematic Mapping Study of Empirical Research Methods in Software Ecosystems 
-            time_start: '13:45'
-            time_end: '14:15' 
-          - name: Tutorial 2
-            time_start: '14:30'
-            time_end: '16:00'  
+            time_start: '11:15'
+            time_end: '11:45' 
+          - name: Tutorial 3, Design Sprint - fast problem-solving through collaborationn
+            time_start: '12:45'
+            time_end: '15:45'  
   - name: Thursday
     abbr: Thu
     date: 2022-11-10
@@ -77,21 +85,21 @@ days:
           - name: Management Accounting Concepts for Inner Source Software Engineering
             time_start: '10:15'
             time_end: '10:45'
-          - name: An Investigation of Factors Influencing Online Shopping Behaviors in the Context of China and Australia
+          - name: Quō vādis, Data Business? A Study for understanding maturity of embedded system companies in data economy
             time_start: '10:45'
-            time_end: '11:15' 
+            time_end: '11:00' 
+          - name: 'Conducting B2B SaaS Business with a Freemium Model: A Case Study'
+            time_start: '11:00'
+            time_end: '11:15'  
           - name: 'Increasing Employees’ Willingness to Share: Introducing Appeal Strategies for People Analytics'
             time_start: '12:15'
             time_end: '12:45'  
           - name: Anti-Pattern Detection in Process-Driven Decision Support Systems
             time_start: '12:45'
             time_end: '13:15'
-          - name: Quō vādis, Data Business? A Study for understanding maturity of embedded system companies in data economy
+          - name: An Investigation of Factors Influencing Online Shopping Behaviors in the Context of China and Australia
             time_start: '13:15'
-            time_end: '13:30' 
-          - name: 'Conducting B2B SaaS Business with a Freemium Model: A Case Study'
-            time_start: '13:30'
-            time_end: '13:45'  
+            time_end: '13:45' 
           - name: 'Digital Transformation towards Sustainability: A Case Study of Process Views in District Heating'
             time_start: '14:00'
             time_end: '14:30'
@@ -104,10 +112,10 @@ days:
           - name: Discussion Panel 2  
             time_start: '15:15'
             time_end: '16:00'
-          - name: Closing
+          - name: Closing (Best paper award and presentation of ICSOB 2023 host)
             time_start: '16:00'
             time_end: '16:30'   
-      
+  
       - name: Room B
         talks:
           - name: 'Democratizing Software Development: A Systematic Multivocal Literature Review and Research Agenda on Citizen Development'
@@ -119,8 +127,18 @@ days:
           - name: 'Implementing AI Ethics in a Software Engineering Project-based Learning Environment - The Case of WIMMA lab'
             time_start: '10:45'
             time_end: '11:15' 
-          - name: Tutorial 3
+          - name: Tutorial 1, Driving Digital Transformation through Digital Design Thinking, The Scene2Model Approach
             time_start: '12:15'
-            time_end: '15:15'   
-
-
+            time_end: '13:45' 
+          - name: Tutorial 2, IoT in Multidisciplinary Engineering for Modern Systems
+            time_start: '14:00'
+            time_end: '15:30'   
+  - name: Friday
+    abbr: Fri
+    date: 2022-11-11
+    rooms:
+      - name: Room A
+        talks:
+          - name: 'industry talks'
+            time_start: '13:00'
+            time_end: '17:00'

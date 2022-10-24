@@ -3,9 +3,9 @@ layout: program
 ---
 
 <h1 class="display-4" style="text-align: center;">
-	Overview
+	Program Overview
 </h1>
-<img src="/assets/images/schedule.png" alt="">
+<img src="/assets/images/Program.png" alt="">
 
 <hr/>
 
@@ -13,7 +13,6 @@ layout: program
     <h1 class="display-4" style="text-align: center;">
         Keynotes
     </h1>
-
 	<div>
 		<h2 style="margin-bottom: 50px; margin-top: 50px">Digital Transformation of Software Companies: Brilliant Idea or Unnecessary Action?</h2>
 		<img src="/assets/images/hess_hoch.jpg" alt="Thomas Hess" style="float:left;width:200px" />
