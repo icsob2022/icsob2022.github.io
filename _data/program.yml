@@ -67,7 +67,7 @@ days:
           - name: A Systematic Mapping Study of Empirical Research Methods in Software Ecosystems 
             time_start: '11:15'
             time_end: '11:45' 
-          - name: Tutorial 3, Design Sprint - fast problem-solving through collaborationn
+          - name: Design Sprint - fast problem-solving through collaborationn
             time_start: '12:45'
             time_end: '15:45'  
   - name: Thursday
@@ -127,10 +127,10 @@ days:
           - name: 'Implementing AI Ethics in a Software Engineering Project-based Learning Environment - The Case of WIMMA lab'
             time_start: '10:45'
             time_end: '11:15' 
-          - name: Tutorial 1, Driving Digital Transformation through Digital Design Thinking, The Scene2Model Approach
+          - name: Driving Digital Transformation through Digital Design Thinking, The Scene2Model Approach
             time_start: '12:15'
             time_end: '13:45' 
-          - name: Tutorial 2, IoT in Multidisciplinary Engineering for Modern Systems
+          - name: IoT in Multidisciplinary Engineering for Modern Systems
             time_start: '14:00'
             time_end: '15:30'   
   - name: Friday

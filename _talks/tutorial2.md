@@ -1,5 +1,5 @@
 ---
-name: Tutorial 2, IoT in Multidisciplinary Engineering for Modern Systems
+name: IoT in Multidisciplinary Engineering for Modern Systems
 hide: true
 categories:
   - Tutorial
