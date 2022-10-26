@@ -67,8 +67,11 @@ days:
           - name: A Systematic Mapping Study of Empirical Research Methods in Software Ecosystems 
             time_start: '11:15'
             time_end: '11:45' 
-          - name: Design Sprint - fast problem-solving through collaborationn
-            time_start: '12:45'
+          - name: Design Sprint - fast problem-solving through collaborationn (first part)
+            time_start: '13:45'
+            time_end: '14:15'  
+          - name: Design Sprint - fast problem-solving through collaborationn (second part)
+            time_start: '14:30'
             time_end: '15:45'  
   - name: Thursday
     abbr: Thu
@@ -139,6 +142,6 @@ days:
     rooms:
       - name: Room A
         talks:
-          - name: 'industry talks'
+          - name: 'Industry Talks'
             time_start: '13:00'
             time_end: '17:00'
