@@ -30,19 +30,13 @@ layout: program
 		<p style="margin-left: 220px">Thomas Hess is Professor of Information Systems and Management at the Ludwig-Maximilians-Universität München (LMU), LMU School of Management, where he also serves as director of the Institute for Digital Management and New Media. He is also director of the Baverian Research Institute for the Digital Transformation and is member of the board of the Internet Business Cluster Munich. His research focuses on the potential of digital technologies for changes in value creation and management systems of companies. His work has appeared in international journals and conferences including Journal of Management Information Systems, European Journal of Information Systems, International Conference on Information Systems (ICIS), and European Conference on Information Systems (ECIS). His work has, according to Google Scholar, already been cited more than 19,000 times
 		.</p>
 	</div>
-	<div style="margin-top: 50px; margin-left:220px">
-		<p>Additional keynotes to be announced.</p>
-	</div>		
 	<br>
 	<br>
 </div>
 
 
 
-
-
-
-
 <!--
+
 
 -->
