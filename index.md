@@ -62,7 +62,7 @@ The theme of ICSOB2022 is <b>Software for Digital Transformation</b>. Research a
     <ul style="list-style: none;">
         <li>Deadline for tutorials proposal : 11 September 2022</li>
         <li>Tutorials notification of acceptance: 19 September 2022</li>
-        <li style="color:red">Deadline for industry talk proposal extended: <s>30 September 2022</s> 7 October 2022</li>
+        <li>Deadline for industry talk proposal extended: 7 October 2022</li>
         <li>Industry talk notification of acceptance:  15 October 2022</li>
     </ul>
 </div>

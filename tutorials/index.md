@@ -43,7 +43,7 @@ In order to attend one or more tutorials, follow this <a href="https://docs.goog
 <hr>
 
 <br>
-<b style="font-size:22px; text-align:center;">Tutorial 1: Driving Digital Transformation through Digital Design Thinking: The Scene2Model Approach</b><br><br>
+<b style="font-size:22px; text-align:center;" id="tut1">Tutorial 1: Driving Digital Transformation through Digital Design Thinking: The Scene2Model Approach</b><br><br>
 <b>Description</b>
 <ul style="list-style: none;">
 <li>Innovation and transformation, as well as the emergence of disruptive business ecosystems,
@@ -87,7 +87,7 @@ in her responsibilities as part of the OMiLAB team.</li>
 <hr>
 
 <br>
-<b style="font-size:22px; text-align: center;">Tutorial 2: Lean Analytics Canvas for Decision-Making in Software Projects</b><br><br>
+<b style="font-size:22px; text-align: center;" id="tut2">Tutorial 2: Lean Analytics Canvas for Decision-Making in Software Projects</b><br><br>
 <b>Description</b>
 <ul style="list-style: none;">
 <li>Nowadays, we have several tools that provide different metrics for our software project. These metrics can give information about code quality, software architecture, development process, and even your company business. However, in several cases, after getting those metrics, nobody knows what exactly should be done about them. In this workshop, I present "software analytics": a data-driven approach to support decisions and concrete actions in a software project. In addition, it will introduce a canvas that supports a lightweight technique that can be applied to support an analytics process in small and medium size teams.</li>
@@ -111,7 +111,7 @@ in her responsibilities as part of the OMiLAB team.</li>
 </ul>
 <hr>
 <br>
-<b style="font-size:22px; text-align:center;">Tutorial 3: Design Sprint: fast problem-solving through collaboration</b><br><br>
+<b style="font-size:22px; text-align:center;" id="tut3">Tutorial 3: Design Sprint: fast problem-solving through collaboration</b><br><br>
 <b>Description</b>
 <ul style="list-style: none;">
 <li>The tutorial proposed here presents the design sprint approach, a 4-day process
