@@ -1,5 +1,5 @@
 ---
-name: IoT in Multidisciplinary Engineering for Modern Systems
+name: Lean Analytics Canvas for Decision-Making in Software Projects
 hide: true
 categories:
   - Tutorial

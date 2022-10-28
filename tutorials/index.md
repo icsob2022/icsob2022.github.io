@@ -87,61 +87,27 @@ in her responsibilities as part of the OMiLAB team.</li>
 <hr>
 
 <br>
-<b style="font-size:22px; text-align: center;">Tutorial 2: IoT in Multidisciplinary Engineering for Modern Systems</b><br><br>
+<b style="font-size:22px; text-align: center;">Tutorial 2: Lean Analytics Canvas for Decision-Making in Software Projects</b><br><br>
 <b>Description</b>
 <ul style="list-style: none;">
-<li>A Modern System is a System of Systems that is based on the aspects which are majorly
-Multidisciplinary such as; Wireless Sensor Network; Data Mining; Machine-to-Machine; Geographical
-Information System; Spatio-Temporal Data and Collaborative design. Open Challenges at functional
-level are definition of Standard Operating Procedures; Design Integration; Data Translation; 24 x 7
-Monitoring; Security and Prediction and Prevention rather than Operation and Maintenance.
-Multidisciplinary Systems Engineering currently have open issues in the technical domains such as
-Real Time System Design, Wireless Sensor Networks, Time-sensitive networking protocols, Data
-analytics on streaming data leading to Predictive Modeling and Data storage and disaster recovery. We
-will analyse them taking a number of use-cases; (i) Intelligent Traffic / Transport Management; (ii)
-Security Surveillance; (iii) Emergency Response / Disaster Management; (iv) Factory Automation; and
-(v) Smart Agriculture.</li>
+<li>Nowadays, we have several tools that provide different metrics for our software project. These metrics can give information about code quality, software architecture, development process, and even your company business. However, in several cases, after getting those metrics, nobody knows what exactly should be done about them. In this workshop, I present "software analytics": a data-driven approach to support decisions and concrete actions in a software project. In addition, it will introduce a canvas that supports a lightweight technique that can be applied to support an analytics process in small and medium size teams.</li>
 </ul>
-<b>Major course topics are:</b>
+<b>Course topics:</b>
 <ul style="list-style: none;">
-<li>Modern Systems</li>
-<li>Why Multidisciplinary</li>
-<li>Design Issues</li>
-<li>Use Cases
-<ul style="list-style: none;">
-<li>Design Solutions as individual domain</li>
-<li>Design Challenges as Multidisciplinary engineering systems</li>
-</ul>
-</li>
-<li>Open Research Challenges
-<ul style="list-style: none;">
-<li>At the Technology-level</li>
-<li>At the Application-domain-level</li>
-</ul>
-</li>
-<li>Design Exercises
-<ul style="list-style: none;">
-<li>Review Design Solutions</li>
-<li>Thinking out-of-the-box</li>
-<li>Analyzing the Submitted solutions</li>
-</ul>
-</li>
+<li>Bad practices in using metrics</li>
+<li>Introduction to software analytics</li>
+<li>Patterns for software analytics in small and medium teams</li>
+<li>Software Analytics Canvas</li>
+<li>Concrete examples of Canvas usage</li>
+<li>Exercise: Using the canvas in practice</li>
 </ul>
 <b>Duration</b>
 <ul style="list-style: none;">
-<li>The tutorial will last 90 minutes in total.</li>
+<li>The tutorial will be held as a 90 min session. After introducing software analytics and the canvas, some concrete examples from real projects will illustrate how this technique can be implemented in practice. The participants will have the opportunity to try the canvas themselves in a practical exercise.</li>
 </ul>
-<b>Organisers</b>
+<b>Organizer</b>
 <ul style="list-style: none;">
-<li>Urjaswala Vora is an associate teaching professor with College of Information Sciences and
-Technology of Pennsylvania State University, with 25 years of work experience in various IT domains.
-Earlier she was working as Associate Director at the Centre for Development of Advanced Computing, an
-Autonomous Premier Research and Development Society of the Government of India. Urjaswala has worked
-as a program manager for eGovernance, Smart Cities and biometrics domains and has taught and
-mentored undergraduate as well as postgraduate students and professionals. Her research interests
-include complex systems, IoT, software architecture, and software engineering. She has earned a
-doctorate in computer science and engineering from IIT Bombay and a bachelor’s degree in computer
-engineering from the University of Pune.</li>
+<li>Eduardo Guerra is a Researcher at the Free University of Bozen-Bolzano, Italy. The focus of Eduardo Guerra’s research can be defined as “finding better ways to develop software,” which can include programming approaches and processes to be used by the development team. He considers the principles of Agile Software Development the core guidance of his research since they share the goal of improving software quality, optimizing development time, and increasing software adaptability. Test-driven development (TDD) was the core of several works that focused on test code refactoring, application of TDD for specific kinds of software, and teaching and evaluating the technique. Also, in the scope of programming techniques, the usage of metadata and code annotations were the focus of several works that aimed to study them as an alternative to make the software more adaptable and improve the code quality.</li>
 </ul>
 <hr>
 <br>
