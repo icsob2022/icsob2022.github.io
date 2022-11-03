@@ -4,6 +4,12 @@ layout: home
 
 <br/>
 
+<div style="text-align:center">
+<a href="https://link.springer.com/book/10.1007/978-3-031-20706-8" target="_blank" style="text-decoration: none; font-size:25px">Conference proceedings</a>
+</div>
+
+<br>
+
 The International Conference on Software Business (ICSOB) attracts both researchers and practitioners who are concerned with software-intensive business in different ways, and brings them together to share their findings and experiences from the field of software-intensive business.
 
 <hr>
