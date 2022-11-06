@@ -900,11 +900,11 @@ in District Heating</a><span>Alisa Ananjeva, John Stouby Persson and Peter Axel 
 			<div class="event stage-shortpaper start-1430 end-1430 length-2"><a href="/abstracts/#short5" style="color:black; text-decoration:none" target="_blank">Gender Bias in the Recruitment Process of IT Startups in the Netherlands</a><span>Tea Sinik, Joeri Snippert and Slinger Jansen<br><br>Room: Seminar 1</span></div>
 			<div class="event stage-shortpaper start-1445 end-1445 length-2"><a href="/abstracts/#short6" style="color:black; text-decoration:none" target="_blank">Green ICT Adoption and Challenges: Evidence from the Finnish ICT
 Sector</a><span>Larry Abdullai, Antti Sipilä and Jari Porras<br><br>Room: Seminar 1</span></div>
-			<div class="event stage-industry start-1500 end-1500 length-2">Characteristics and Actors of Impact Investing Ecosystem from the Perspective of Technology Startups<span>Timo Okker<br><br>Room: Seminar 1</span></div>
-			<div class="event stage-break start-1515 end-1515 length-2">Break<span></span></div>
+			<div class="event stage-industry start-1500 end-1500 length-2">Industry talk: Characteristics and Actors of Impact Investing Ecosystem from the Perspective of Technology Startups<span>Timo Okker<br><br>Room: Seminar 1</span></div>
+			<div class="event stage-break start-1515 end-1515 length-4">Break<span></span></div>
 			<div class="event stage-tutorial start-1400 end-1500 length-2"><a href="/tutorials/#tut2" style="color:black" target="_blank">Lean Analytics Canvas for Decision-Making in Software Projects</a><span><br><br>Room: Seminar 4</span></div>
-			<div class="event stage-other start-1530 end-1600 length-2">Discussion panel: Research on Software-intensive Business: Where do We Go from Here?<span><br><br>Room: Seminar 1</span></div>
-			<div class="event stage-other start-1615 end-1630 length-2">Concerence Ends<span><br><br>Room: Seminar 1</span></div>
+			<div class="event stage-other start-1530 end-1600 length-4">Discussion panel: Research on Software-intensive Business: Where do We Go from Here?<span><br><br>Room: Seminar 1</span></div>
+			<div class="event stage-other start-1615 end-1630 length-4">Conference Ends<span><br><br>Room: Seminar 1</span></div>
 		</div>
 		<div class="scheduleContainer" id="friday" display="none !important;">
 			<div class="time start-1000">8:30</div>
