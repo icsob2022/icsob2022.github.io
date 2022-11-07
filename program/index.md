@@ -264,7 +264,7 @@ layout: importantdates
 /** * Event */
  .event {
 	 display: flex;
-	 justify-content: center;
+     justify-content: center; 
 	 align-items: center;
 	 flex-direction: column;
 	 padding: 0.5rem 1rem;
@@ -633,7 +633,7 @@ layout: importantdates
 	 background-color: #B44F4F;
 }
  .event.stage-shortpaper {
-	 background-color: #b3e5fc;
+	 background-color: #6cb7d9;
 }
  .event.stage-other {
 	 background-color: #B95494;
@@ -661,7 +661,7 @@ layout: importantdates
 		<br>
 				<span style="background-color: #D4E17C; padding:5px">Keynotes</span>
 				<span style="background-color: #88E17C; padding:5px">Tutorials</span>
-				<span style="background-color: #b3e5fc; padding:5px">Short Papers</span>
+				<span style="background-color: #6cb7d9; padding:5px">Short Papers</span>
 				<span style="background-color: #B44F4F; padding:5px">Long Papers</span>
 				<span style="background-color: #2f7091; padding:5px">PhD Project presentations</span>
 				<span style="background-color: #a39f9e; padding:5px">Industry Track</span>
@@ -812,21 +812,23 @@ layout: importantdates
 		<div class="event stage-other start-830 end-845 length-4">Welcome to the ICSOB 2022<span><br><br>Room: Seminar 1</span></div>		
 		<div class="event stage-keynote start-900 end-945 length-4">The Future of Key is Digital: how the Hospitality is Embracing Digitalization<span>Patrick Lomsdalen<br><br>Room: Seminar 1</span></div>		
 		<div class="event stage-break start-1000 end-1000 length-4">Break<span></span></div>		
-		<div class="event stage-longpaper start-1015 end-1030 length-2"><a href="/abstracts/#long1" style="color:black; text-decoration:none" target="_blank">An Instrument for Evaluating Data-driven Traffic Management Applications in the Context of Digital Transformation Towards a Smart City</a><span>Alisa Lorenz, Nils Madeja and Aynur Cifci<br><br>Room: Seminar 1
-		</span></div>
-		<div class="event stage-longpaper start-1015 end-1030 length-2"><a href="/abstracts/#long2" style="color:black; text-decoration:none" target="_blank">Overcoming Barriers to Digital Transformation – Development of a Decision Matrix</a><span>Henning Brink, Sven Packmohr and Fynn-Hendrik Paul<br><br>Room: Seminar 4</span></div>
-		<div class="event stage-longpaper start-1045 end-1100 length-2"><a href="/abstracts/#long3" style="color:black; text-decoration:none" target="_blank">Digital Twin Ecosystems: Potential Stakeholders and Their Requirements</a><span>Reshani Liyanage, Nirnaya Tripathi, Tero Päivärinta and Yueqiang Xu<br><br>Room: Seminar 1</span></div>
-		<div class="event stage-longpaper start-1045 end-1100 length-2"><a href="/abstracts/#long4" style="color:black; text-decoration:none" target="_blank">Definition of the Enterprise Integration Platforms as a Service — Towards a Common Understanding</a><span>Sonja Hyrynsalmi<br><br>Room: Seminar 4</span></div>
-		<div class="event stage-longpaper start-1115 end-1130 length-2"><a href="/abstracts/#long5" style="color:black; text-decoration:none" target="_blank">Roadmapping in the Digital Transformation Literature</a><span>Ashna Mahmood Zada, John Persson and Peter Axel Nielsen<br><br>Room: Seminar 1</span></div>
-		<div class="event stage-longpaper start-1115 end-1130 length-2"><a href="/abstracts/#long6" style="color:black; text-decoration:none" target="_blank">A Systematic Mapping Study of Empirical Research Methods in Software Ecosystems</a><span>Larry Abdulai, Hatef Shamshiri, Hasan Mahmud, Essi Aittamaa, Jaakko Vuolasto, Mikhail Adisa, Roope Luukainen, Sonja Hyrynsalmi, Nina Masseli, Nasreen Azad, Bahalul Haque, Juha-Pekka Joutsenlahti, Wondemeneh Legesse, Ahmed Abdelsalam, Anastasiia Gurzhii, Jouni Ikonen, Slinger Jansen and Casper Van Schothorst<br><br>Room: Seminar 4</span></div>
+		<div class="event stage-longpaper start-1015 end-1130 length-2" style="justify-content: flex-start"><span style="font-size: 17px; color:white; border: 3px groove red;">Session 1 - Digital Transformation: Kari Smolander</span><br><a href="/abstracts/#long1" style="color:black; text-decoration:none" target="_blank">An Instrument for Evaluating Data-driven Traffic Management Applications in the Context of Digital Transformation Towards a Smart City</a><span>Alisa Lorenz, Nils Madeja and Aynur Cifci<br>Room: Seminar 1
+		</span><br><br><br><br><a href="/abstracts/#long3" style="color:black; text-decoration:none" target="_blank">Digital Twin Ecosystems: Potential Stakeholders and Their Requirements</a><span>Reshani Liyanage, Nirnaya Tripathi, Tero Päivärinta and Yueqiang Xu<br>Room: Seminar 1</span><br><br><br><br><br><br><a href="/abstracts/#long5" style="color:black; text-decoration:none" target="_blank">Roadmapping in the Digital Transformation Literature</a><span>Ashna Mahmood Zada, John Persson and Peter Axel Nielsen<br><br>Room: Seminar 1</span></div>
+		<div class="event stage-longpaper start-1015 end-1130 length-2" style="justify-content: flex-start"><span style="font-size: 17px; color:white; border: 3px groove blue">
+Session 3 - Digital Platforms and Ecosystem:  Luciana Zaina</span><br><a href="/abstracts/#long2" style="color:black; text-decoration:none" target="_blank">Overcoming Barriers to Digital Transformation – Development of a Decision Matrix</a><span>Henning Brink, Sven Packmohr and Fynn-Hendrik Paul<br><br>Room: Seminar 4</span><br><br><br><br>
+		<a href="/abstracts/#long4" style="color:black; text-decoration:none" target="_blank">Definition of the Enterprise Integration Platforms as a Service — Towards a Common Understanding</a><span>Sonja Hyrynsalmi<br><br>Room: Seminar 4</span><br><br><br><br>
+		<a href="/abstracts/#long6" style="color:black; text-decoration:none" target="_blank">A Systematic Mapping Study of Empirical Research Methods in Software Ecosystems</a><span>Larry Abdulai, Hatef Shamshiri, Hasan Mahmud, Essi Aittamaa, Jaakko Vuolasto, Mikhail Adisa, Roope Luukainen, Sonja Hyrynsalmi, Nina Masseli, Nasreen Azad, Bahalul Haque, Juha-Pekka Joutsenlahti, Wondemeneh Legesse, Ahmed Abdelsalam, Anastasiia Gurzhii, Jouni Ikonen, Slinger Jansen and Casper Van Schothorst<br><br>Room: Seminar 4</span>
+		</div>
 		<div class="event stage-break start-1145 end-1230 length-4">Lunch break<span></span></div>
-		<div class="event stage-longpaper start-1245 end-1300 length-2"><a href="/abstracts/#long7" style="color:black; text-decoration:none" target="_blank">Interrelation of Digitalization and Digital Transformation in a Maritime company (online presentation)</a><span>Rasmus Ulfsnes, Nils Brede Moe, Geir Kjetil Hanssen and Thor Alexander Buan<br><br>Room: Seminar 1</span></div>
-		<div class="event stage-longpaper start-1315 end-1330 length-2"><a href="/abstracts/#long8" style="color:black; text-decoration:none" target="_blank">Where Does This Feature Belong To? Locating Business-to-Business Features in a Platform Ecosystem</a><span>Jaakko Vuolasto and Kari Smolander<br><br>Room: Seminar 1</span></div>
-		<div class="event stage-longpaper start-1345 end-1400 length-2"><a href="/abstracts/#long9" style="color:black; text-decoration:none" target="_blank">The Role of Actors in Platform Ecosystems: A Systematic Literature Review and Comparison Across Platform types</a><span>Martin Kauschinger, Maximilian Schreieck and Helmut Krcmar<br><br>Room: Seminar 1</span></div>
+		<div class="event stage-longpaper start-1245 end-1400 length-2" style="justify-content: flex-start"><span style="font-size: 17px; color:white; border: 3px groove yellow;">Session 2 - Digital Transformation (2): Nirnaya Tripathi</span><br><a href="/abstracts/#long7" style="color:black; text-decoration:none" target="_blank">Interrelation of Digitalization and Digital Transformation in a Maritime company (online presentation)</a><span>Rasmus Ulfsnes, Nils Brede Moe, Geir Kjetil Hanssen and Thor Alexander Buan<br><br>Room: Seminar 1</span><br><br><br><br>
+		<a href="/abstracts/#long8" style="color:black; text-decoration:none" target="_blank">Where Does This Feature Belong To? Locating Business-to-Business Features in a Platform Ecosystem</a><span>Jaakko Vuolasto and Kari Smolander<br><br>Room: Seminar 1</span><br><br><br><br><br>
+		<a href="/abstracts/#long9" style="color:black; text-decoration:none" target="_blank">The Role of Actors in Platform Ecosystems: A Systematic Literature Review and Comparison Across Platform types</a><span>Martin Kauschinger, Maximilian Schreieck and Helmut Krcmar<br><br>Room: Seminar 1</span>
+		</div>
 		<div class="event stage-tutorial start-1345 end-1400 length-2"><a href="/tutorials/#tut3" style="color:black" target="_blank">Design Sprint - fast problem-solving through collaborationn (first part)</a><span><br><br>Room: Seminar 4</span></div>
 		<div class="event stage-break start-1415 end-1415 length-4">Break<span></span></div>
-		<div class="event stage-longpaper start-1430 end-1445 length-2"><a href="/abstracts/#long10" style="color:black; text-decoration:none" target="_blank">Towards Understanding How Software Startups Deal with UX From Customer and User Information</a><span>Joelma Choma, Leticia Machado, Cleidson R. B. de Souza, Helen Sharp, Leonor Barroca and Luciana Zaina<br><br>Room: Seminar 1</span></div>
-		<div class="event stage-longpaper start-1500 end-1515 length-2"><a href="/abstracts/#long11" style="color:black; text-decoration:none" target="_blank">The Evolution of Software Startup Research: A Survey of Literature</a><span>Karl Amadeus Finsson Hansen, Admir Osmanovic, Benjamin Hamborg Clement Klerens and Henry Edison<br><br>Room: Seminar 1</span></div>
+		<div class="event stage-longpaper start-1430 end-1515 length-2" style="justify-content: flex-start"><span style="font-size: 17px; color:white; border: 3px groove green;">Session 4 - Software Startups: Rahul Prem Mohanani</span><br><a href="/abstracts/#long10" style="color:black; text-decoration:none" target="_blank">Towards Understanding How Software Startups Deal with UX From Customer and User Information</a><span>Joelma Choma, Leticia Machado, Cleidson R. B. de Souza, Helen Sharp, Leonor Barroca and Luciana Zaina<br><br>Room: Seminar 1</span><br><br><br><br>
+		<a href="/abstracts/#long11" style="color:black; text-decoration:none" target="_blank">The Evolution of Software Startup Research: A Survey of Literature</a><span>Karl Amadeus Finsson Hansen, Admir Osmanovic, Benjamin Hamborg Clement Klerens and Henry Edison<br><br>Room: Seminar 1</span>
+		</div>
 		<div class="event stage-shortpaper start-1530 end-1530 length-2"><a href="/abstracts/#short1" style="color:black; text-decoration:none" target="_blank">On the Characteristics of Internal Software Startups</a><span>Anastasiia Tkalich and Henry Edison<br><br>Room: Seminar 1
 		</span></div>
 		<div class="event stage-tutorial start-1430 end-1530 length-2"><a href="/tutorials/#tut3" style="color:black" target="_blank">Design Sprint - fast problem-solving through collaborationn (second part)</a><span><br><br>Room: Seminar 4</span></div>
@@ -876,29 +878,32 @@ layout: importantdates
 			<div class="time start-2045">20:45</div>-->
 			<div class="event stage-keynote start-830 end-915 length-4">Digital Transformation of Software Companies: Brilliant Idea or Unnecessary Action?<span>Thomas Hess<br><br>Room: Seminar 1</span></div>
 			<div class="event stage-break start-930 end-930 length-4">Break<span></span></div>
-			<div class="event stage-longpaper start-945 end-1000 length-2"><a href="/abstracts/#long12" style="color:black; text-decoration:none" target="_blank">On the Compliance of Platforms with Children’s Privacy and Protection Requirements
-- An Analysis of TikTok</a><span>Vinícius Polito, George Valença, Maria Wanick Sarinho, Fernando Lins and Rodrigo Pereira dos Santos<br><br>Room: Seminar 1</span></div>
+			<div class="event stage-longpaper start-945 end-1030 length-2" style="justify-content: flex-start"><span style="font-size: 17px; color:white; border: 3px groove purple;">Session 5 - Business Intelligence and Analytics: Abduhllah</span><br><a href="/abstracts/#long12" style="color:black; text-decoration:none" target="_blank">On the Compliance of Platforms with Children’s Privacy and Protection Requirements
+- An Analysis of TikTok</a><span>Vinícius Polito, George Valença, Maria Wanick Sarinho, Fernando Lins and Rodrigo Pereira dos Santos<br><br>Room: Seminar 1</span><br><br><br><br><br><br><br><br>
+<a href="/abstracts/#long14" style="color:black; text-decoration:none" target="_blank">Management Accounting Concepts for Inner Source Software Engineering</a><span>Julian Hirsch and Dirk Riehle<br><br>Room: Seminar 1</span>
+</div>
 			<div class="event stage-longpaper start-945 end-1000 length-2"><a href="/abstracts/#long13" style="color:black; text-decoration:none" target="_blank">Democratizing Software Development: A Systematic Multivocal Literature
 Review and Research Agenda on Citizen Development</a><span>Björn Binzer and Till Winkler<br><br>Room: Seminar 4</span></div>
-			<div class="event stage-longpaper start-1015 end-1030 length-2"><a href="/abstracts/#long14" style="color:black; text-decoration:none" target="_blank">Management Accounting Concepts for Inner Source Software Engineering</a><span>Julian Hirsch and Dirk Riehle<br><br>Room: Seminar 1</span></div>
 			<div class="event stage-longpaper start-1015 end-1030 length-2"><a href="/abstracts/#long15" style="color:black; text-decoration:none" target="_blank">DevOps Challenges in Organizations: Through Professional Lens</a><span>Nasreen Azad and Sami Hyrynsalmi<br><br>Room: Seminar 4</span></div>
-			<div class="event stage-shortpaper start-1045 end-1045 length-2"><a href="/abstracts/#short2" style="color:black; text-decoration:none" target="_blank">Quō vādis, Data Business? A Study for understanding maturity of embedded
-system companies in data economy</a><span>Sami Hyrynsalmi, Helena Holmström Olsson, Jan Bosch and Sonja Hyrynsalmi<br><br>Room: Seminar 1</span></div>
+			<div class="event stage-shortpaper start-1045 end-1100 length-2" style="justify-content: flex-start"><span style="font-size: 17px; color:white; border: 3px groove purple;">Session 5 - Business Intelligence and Analytics: Abduhllah</span><br><a href="/abstracts/#short2" style="color:black; text-decoration:none" target="_blank">Quō vādis, Data Business? A Study for understanding maturity of embedded
+system companies in data economy</a><span>Sami Hyrynsalmi, Helena Holmström Olsson, Jan Bosch and Sonja Hyrynsalmi<br><br>Room: Seminar 1</span><br><br>
+<a href="/abstracts/#short4" style="color:black; text-decoration:none" target="_blank">Conducting B2B SaaS Business with a Freemium Model: A Case Study</a><span>Teemu Nieminen, Rahul Mohanani and Pekka Abrahamsson<br><br>Room: Seminar 1</span></div>
+			<div class="event stage-break start-1115 end-1200 length-4">Lunch break<span></span>
+</div>
 			<div class="event stage-shortpaper start-1045 end-1045 length-2"><a target="_blank" href="/abstracts/short3" style="color:black; text-decoration:none">Implementing AI Ethics in a Software Engineering Project-based Learning Environment
 - The Case of WIMMA lab</a><span>Mamia Agbese, Marko Rintamaki, Rahul Mohanani and Pekka Abrahamsson<br><br>Room: Seminar 4</span></div>
-			<div class="event stage-shortpaper start-1100 end-1100 length-2"><a href="/abstracts/#short4" style="color:black; text-decoration:none" target="_blank">Conducting B2B SaaS Business with a Freemium Model: A Case Study</a><span>Teemu Nieminen, Rahul Mohanani and Pekka Abrahamsson<br><br>Room: Seminar 1</span></div>
-			<div class="event stage-break start-1115 end-1200 length-4">Lunch break<span></span></div>
-			<div class="event stage-longpaper start-1215 end-1230 length-2"><a href="/abstracts/#long16" style="color:black; text-decoration:none" target="_blank">Increasing Employees’ Willingness to Share: Introducing Appeal Strategies
-for People Analytics</a><span>Valentin Zieglmeier, Maren Gierlich Joas and Alexander Pretschner<br><br>Room: Seminar 1</span></div>
-			<div class="event stage-longpaper start-1245 end-1300 length-2"><a href="/abstracts/#long17" style="color:black; text-decoration:none" target="_blank">Anti-Pattern Detection in Process-Driven Decision Support Systems</a><span>Jonas Kirchhoff and Gregor Engels<br><br>Room: Seminar 1</span></div>
-			<div class="event stage-longpaper start-1315 end-1330 length-2"><a href="/abstracts/#long18" style="color:black; text-decoration:none" target="_blank">An Investigation of Factors Influencing Online Shopping Behaviors in the
-Context of China and Australia</a><span>Qijun Zhai, Tanjila Kanij and John Grundy<br><br>Room: Seminar 1</span></div>
+			<div class="event stage-longpaper start-1215 end-1330 length-2" style="justify-content: flex-start"><span style="font-size: 17px; color:white; border: 3px groove orange;">Session 6 - Business Intelligence and Analytics (2): Dr Dron Khanna</span><br><a href="/abstracts/#long16" style="color:black; text-decoration:none" target="_blank">Increasing Employees’ Willingness to Share: Introducing Appeal Strategies
+for People Analytics</a><span>Valentin Zieglmeier, Maren Gierlich Joas and Alexander Pretschner<br><br>Room: Seminar 1</span><br><br><br><br><br><br><br><br><br>
+<a href="/abstracts/#long17" style="color:black; text-decoration:none" target="_blank">Anti-Pattern Detection in Process-Driven Decision Support Systems</a><span>Jonas Kirchhoff and Gregor Engels<br><br>Room: Seminar 1</span><br><br><br><br><br><br><br><br><br><br>
+<a href="/abstracts/#long18" style="color:black; text-decoration:none" target="_blank">An Investigation of Factors Influencing Online Shopping Behaviors in the
+Context of China and Australia</a><span>Qijun Zhai, Tanjila Kanij and John Grundy<br><br>Room: Seminar 1</span>
+</div>
 			<div class="event stage-tutorial start-1215 end-1330 length-2"><a href="/tutorials/#tut1" style="color:black" target="_blank">Driving Digital Transformation through Digital Design Thinking, The Scene2Model Approach</a><span><br><br>Room: Seminar 4</span></div>
 			<div class="event stage-break start-1345 end-1345 length-4">Break<span></span></div>
-			<div class="event stage-longpaper start-1400 end-1415 length-2"><a href="/abstracts/#long19" style="color:black; text-decoration:none" target="_blank">Digital Transformation towards Sustainability: A Case Study of Process Views
+			<div class="event stage-longpaper start-1400 end-1415 length-2" style="justify-content: flex-start"><span style="font-size: 17px; color:white; border: 3px groove white;">Session 8 - Sustainability: Dr Andrey Saltan</span><br><br><a href="/abstracts/#long19" style="color:black; text-decoration:none" target="_blank">Digital Transformation towards Sustainability: A Case Study of Process Views
 in District Heating</a><span>Alisa Ananjeva, John Stouby Persson and Peter Axel Nielsen<br><br>Room: Seminar 1</span></div>
-			<div class="event stage-shortpaper start-1430 end-1430 length-2"><a href="/abstracts/#short5" style="color:black; text-decoration:none" target="_blank">Gender Bias in the Recruitment Process of IT Startups in the Netherlands</a><span>Tea Sinik, Joeri Snippert and Slinger Jansen<br><br>Room: Seminar 1</span></div>
-			<div class="event stage-shortpaper start-1445 end-1445 length-2"><a href="/abstracts/#short6" style="color:black; text-decoration:none" target="_blank">Green ICT Adoption and Challenges: Evidence from the Finnish ICT
+			<div class="event stage-shortpaper start-1430 end-1445 length-2" style="justify-content: flex-start"><span style="font-size: 17px; color:white; border: 3px groove white;">Session 8 - Sustainability: Dr Andrey Saltan</span><br><a href="/abstracts/#short5" style="color:black; text-decoration:none" target="_blank">Gender Bias in the Recruitment Process of IT Startups in the Netherlands</a><span>Tea Sinik, Joeri Snippert and Slinger Jansen<br><br>Room: Seminar 1</span>
+			<a href="/abstracts/#short6" style="color:black; text-decoration:none" target="_blank">Green ICT Adoption and Challenges: Evidence from the Finnish ICT
 Sector</a><span>Larry Abdullai, Antti Sipilä and Jari Porras<br><br>Room: Seminar 1</span></div>
 			<div class="event stage-industry start-1500 end-1500 length-2">Industry talk: Characteristics and Actors of Impact Investing Ecosystem from the Perspective of Technology Startups (online presentation)<span>Timo Okker<br><br>Room: Seminar 1</span></div>
 			<div class="event stage-break start-1515 end-1515 length-4">Break<span></span></div>
