@@ -80,7 +80,20 @@ a service solutions.</li>
 
 <b id="long5">Roadmapping in the Digital Transformation Literature</b>
 <ul style="list-style: none;">
-<li>The tutorial will be held as a 90 min session. After introducing software analytics and the canvas, some concrete examples from real projects will illustrate how this technique can be implemented in practice. The participants will have the opportunity to try the canvas themselves in a practical exercise.</li>
+<li>Digital transformation is vital for organizations in all sectors, as it
+changes value creation, customer relationships, and internal processes. A key
+concern in digital transformations is creating and executing an effective strategy
+that reimagines the organization. However, structured approaches for
+reimagination in a digital transformation are still missing. This paper contributes
+to this concern by reviewing how roadmapping is used in the digital
+transformation literature. Roadmapping is a flexible technique to support the
+strategic formulation of short- and long-range changes to software, business,
+organizational and structural aspects. Reviewing 28 papers on digital
+transformation, we uncovered five types of roadmapping for reimagining
+organizations: Product-Technology, Strategy, Business, Data, and Design. For
+these five types, we unfold the landscape of obstacles, opportunities, and context
+for different pathways to successfully reimagining organizations in digital
+transformations</li>
 </ul>
 
 <b id="long6">A Systematic Mapping Study of Empirical Research
